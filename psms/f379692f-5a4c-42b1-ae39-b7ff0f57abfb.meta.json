@@ -1,0 +1,21 @@
+{
+  "iri": "3e8b2ebc-9186-46f0-9dc3-21a4ef344027",
+  "projectIri": "f379692f-5a4c-42b1-ae39-b7ff0f57abfb",
+  "types": [
+    "http://dataspecer.com/resources/v1/psm"
+  ],
+  "userMetadata": {
+    "label": {
+      "cs": "Address",
+      "en": "Address"
+    },
+    "description": {
+      "cs": "Datová struktura pro Address. An \"address representation\" as conceptually defined by the INSPIRE Address Representation data type. The locn:addressId property may be used to link this locn:Address to other representations.",
+      "en": "Data structure for Address. An \"address representation\" as conceptually defined by the INSPIRE Address Representation data type. The locn:addressId property may be used to link this locn:Address to other representations."
+    }
+  },
+  "metadata": {},
+  "_version": 1,
+  "_exportVersion": 2,
+  "_exportedBy": "http://localhost:3100"
+}

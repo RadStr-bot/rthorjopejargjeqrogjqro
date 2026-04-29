@@ -1,0 +1,17 @@
+{
+  "iri": "d54a372a-b13d-479f-b8d8-2ce4c9a06b25/ba5af4f1-ab6a-427a-8c6f-c74256a51bad/b4fc49a4-fe7b-4c2d-8eaa-23973515e7ae",
+  "projectIri": "21bc7490-cfb8-4b99-8815-3feba20f8d04",
+  "types": [
+    "https://dataspecer.com/core/model-descriptor/pim-store-wrapper"
+  ],
+  "userMetadata": {
+    "documentBaseUrl": "https://michalmed.github.io/DataCite/en/model.owl.ttl",
+    "label": {
+      "en": "model"
+    }
+  },
+  "metadata": {},
+  "_version": 1,
+  "_exportVersion": 2,
+  "_exportedBy": "http://localhost:3100"
+}

@@ -1,0 +1,16 @@
+{
+  "iri": "u35q6",
+  "projectIri": "9f43ed67-6d63-4ee2-981f-2c76fe7db614",
+  "types": [
+    "https://dataspecer.com/core/model-descriptor/pim-store-wrapper"
+  ],
+  "userMetadata": {
+    "label": {
+      "en": "Core Location Vocabulary 2.1.0"
+    }
+  },
+  "metadata": {},
+  "_version": 1,
+  "_exportVersion": 2,
+  "_exportedBy": "http://localhost:3100"
+}

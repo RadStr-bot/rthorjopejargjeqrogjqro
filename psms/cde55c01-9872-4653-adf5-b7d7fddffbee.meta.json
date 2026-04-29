@@ -1,0 +1,21 @@
+{
+  "iri": "f004e77b-b623-43f2-a560-aca1dcf8b661",
+  "projectIri": "cde55c01-9872-4653-adf5-b7d7fddffbee",
+  "types": [
+    "http://dataspecer.com/resources/v1/psm"
+  ],
+  "userMetadata": {
+    "label": {
+      "cs": "Alternate title",
+      "en": "Alternate title"
+    },
+    "description": {
+      "cs": "Datová struktura pro Alternate title. Alternate title f the resource",
+      "en": "Data structure for Alternate title. Alternate title f the resource"
+    }
+  },
+  "metadata": {},
+  "_version": 1,
+  "_exportVersion": 2,
+  "_exportedBy": "http://localhost:3100"
+}

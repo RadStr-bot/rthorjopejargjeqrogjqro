@@ -1,0 +1,21 @@
+{
+  "iri": "2b3aa148-1ba5-4eb9-a531-0dbf18beebdc",
+  "projectIri": "7c72c1a0-8f22-41d8-aa28-01db799d1992",
+  "types": [
+    "http://dataspecer.com/resources/v1/psm"
+  ],
+  "userMetadata": {
+    "label": {
+      "cs": "Media Type",
+      "en": "Media Type"
+    },
+    "description": {
+      "cs": "Datová struktura pro Media Type. A file format or physical medium.",
+      "en": "Data structure for Media Type. A file format or physical medium."
+    }
+  },
+  "metadata": {},
+  "_version": 1,
+  "_exportVersion": 2,
+  "_exportedBy": "http://localhost:3100"
+}

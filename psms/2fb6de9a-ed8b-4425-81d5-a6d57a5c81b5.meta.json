@@ -1,0 +1,21 @@
+{
+  "iri": "16cf6a9e-b46d-4ece-9c91-91f53a19cec9",
+  "projectIri": "2fb6de9a-ed8b-4425-81d5-a6d57a5c81b5",
+  "types": [
+    "http://dataspecer.com/resources/v1/psm"
+  ],
+  "userMetadata": {
+    "label": {
+      "cs": "Provenance Statement",
+      "en": "Provenance Statement"
+    },
+    "description": {
+      "cs": "Datová struktura pro Provenance Statement. Any changes in ownership and custody of a resource since its creation that are significant for its authenticity, integrity, and interpretation.",
+      "en": "Data structure for Provenance Statement. Any changes in ownership and custody of a resource since its creation that are significant for its authenticity, integrity, and interpretation."
+    }
+  },
+  "metadata": {},
+  "_version": 1,
+  "_exportVersion": 2,
+  "_exportedBy": "http://localhost:3100"
+}

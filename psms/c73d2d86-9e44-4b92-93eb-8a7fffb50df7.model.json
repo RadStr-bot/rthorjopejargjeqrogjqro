@@ -1,0 +1,203 @@
+{
+  "operations": [
+    {
+      "types": [
+        "core-operation",
+        "https://ofn.gov.cz/slovník/psm/CreateClass"
+      ],
+      "iri": "https://ofn.gov.cz/operation/1742235606195-e6bd-a8da-ba73",
+      "parent": null,
+      "dataPsmNewIri": null,
+      "dataPsmInterpretation": "ppu00famb3am7w6qsdm",
+      "dataPsmTechnicalLabel": "resourceAgentRoleType",
+      "dataPsmHumanLabel": null,
+      "dataPsmHumanDescription": null,
+      "dataPsmExtends": [],
+      "dataPsmIsClosed": null
+    },
+    {
+      "types": [
+        "core-operation",
+        "https://ofn.gov.cz/slovník/psm/SetRoots"
+      ],
+      "iri": "https://ofn.gov.cz/operation/1742235606226-99bb-df9f-8c9b",
+      "parent": "https://ofn.gov.cz/operation/1742235606195-e6bd-a8da-ba73",
+      "dataPsmRoots": [
+        "https://ofn.gov.cz/class/1742235606195-b8fa-9b2f-a5cf"
+      ]
+    },
+    {
+      "types": [
+        "core-operation",
+        "https://ofn.gov.cz/slovník/psm/SetHumanLabel"
+      ],
+      "iri": "https://ofn.gov.cz/operation/1742235606262-1988-b21e-8def",
+      "parent": "https://ofn.gov.cz/operation/1742235606226-99bb-df9f-8c9b",
+      "dataPsmResource": "4fd91afc-e490-4b08-bbdf-4c1442cb70eb",
+      "dataPsmHumanLabel": {
+        "cs": "Resource agent role type",
+        "en": "Resource agent role type"
+      }
+    },
+    {
+      "types": [
+        "core-operation",
+        "https://ofn.gov.cz/slovník/psm/SetHumanDescription"
+      ],
+      "iri": "https://ofn.gov.cz/operation/1742235606291-8080-3e70-b59e",
+      "parent": "https://ofn.gov.cz/operation/1742235606262-1988-b21e-8def",
+      "dataPsmResource": "4fd91afc-e490-4b08-bbdf-4c1442cb70eb",
+      "dataPsmHumanDescription": {
+        "cs": "Datová struktura pro Resource agent role type. An idea or notion; a unit of thought.",
+        "en": "Data structure for Resource agent role type. An idea or notion; a unit of thought."
+      }
+    },
+    {
+      "types": [
+        "core-operation",
+        "https://ofn.gov.cz/slovník/psm/SetTechnicalLabel"
+      ],
+      "iri": "https://ofn.gov.cz/operation/1742235700607-98dc-b95c-a98a",
+      "parent": "https://ofn.gov.cz/operation/1742235606291-8080-3e70-b59e",
+      "dataPsmResource": "https://ofn.gov.cz/class/1742235606195-b8fa-9b2f-a5cf",
+      "dataPsmTechnicalLabel": "resource_agent_role_type"
+    },
+    {
+      "types": [
+        "core-operation",
+        "https://ofn.gov.cz/slovník/psm/SetInstancesHaveIdentity"
+      ],
+      "iri": "https://ofn.gov.cz/operation/1750770199446-6937-617d-94c5",
+      "parent": "https://ofn.gov.cz/operation/1742235700607-98dc-b95c-a98a",
+      "dataPsmClass": "https://ofn.gov.cz/class/1742235606195-b8fa-9b2f-a5cf",
+      "instancesHaveIdentity": "ALWAYS"
+    },
+    {
+      "types": [
+        "core-operation",
+        "https://ofn.gov.cz/slovník/psm/CreateAttribute"
+      ],
+      "iri": "https://ofn.gov.cz/operation/1753791625528-028c-7a49-b511",
+      "parent": "https://ofn.gov.cz/operation/1750770199446-6937-617d-94c5",
+      "dataPsmNewIri": null,
+      "dataPsmInterpretation": "k1mch2oi1gm8o9ztmd",
+      "dataPsmTechnicalLabel": "label",
+      "dataPsmHumanLabel": null,
+      "dataPsmHumanDescription": null,
+      "dataPsmOwner": "https://ofn.gov.cz/class/1742235606195-b8fa-9b2f-a5cf",
+      "dataPsmDatatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    },
+    {
+      "types": [
+        "core-operation",
+        "https://ofn.gov.cz/slovník/psm/extensions/xml/setNamespace"
+      ],
+      "iri": "https://ofn.gov.cz/operation/1753793240813-4ddf-9520-87b0",
+      "parent": "https://ofn.gov.cz/operation/1753791625528-028c-7a49-b511",
+      "dataPsmSchema": "4fd91afc-e490-4b08-bbdf-4c1442cb70eb",
+      "namespace": "https://schema.ccmm.cz/resource-agent-role-type",
+      "namespacePrefix": "ccmm-rart"
+    },
+    {
+      "types": [
+        "core-operation",
+        "https://ofn.gov.cz/slovník/psm/SetJsonEnforceContext"
+      ],
+      "iri": "https://ofn.gov.cz/operation/1753793240905-7682-88d1-a7d3",
+      "parent": "https://ofn.gov.cz/operation/1753793240813-4ddf-9520-87b0",
+      "dataPsmEntity": "4fd91afc-e490-4b08-bbdf-4c1442cb70eb",
+      "jsonEnforceContext": "no"
+    },
+    {
+      "types": [
+        "core-operation",
+        "https://ofn.gov.cz/slovník/psm/extensions/xml/setNamespace"
+      ],
+      "iri": "https://ofn.gov.cz/operation/1754377990099-6408-3bc2-91b2",
+      "parent": "https://ofn.gov.cz/operation/1753793240905-7682-88d1-a7d3",
+      "dataPsmSchema": "4fd91afc-e490-4b08-bbdf-4c1442cb70eb",
+      "namespace": "https://schema.ccmm.cz/research-data/1.0.0",
+      "namespacePrefix": "ccmm"
+    },
+    {
+      "types": [
+        "core-operation",
+        "https://ofn.gov.cz/slovník/psm/extensions/xml/setNamespace"
+      ],
+      "iri": "https://ofn.gov.cz/operation/1754407791860-8953-2c5f-93c1",
+      "parent": "https://ofn.gov.cz/operation/1754377990099-6408-3bc2-91b2",
+      "dataPsmSchema": "4fd91afc-e490-4b08-bbdf-4c1442cb70eb",
+      "namespace": "https://schema.ccmm.cz/research-data/1.0",
+      "namespacePrefix": "ccmm"
+    },
+    {
+      "types": [
+        "core-operation",
+        "https://ofn.gov.cz/slovník/psm/extensions/xml/setNamespace"
+      ],
+      "iri": "https://ofn.gov.cz/operation/1763039254886-0fce-4911-a924",
+      "parent": "https://ofn.gov.cz/operation/1754407791860-8953-2c5f-93c1",
+      "dataPsmSchema": "4fd91afc-e490-4b08-bbdf-4c1442cb70eb",
+      "namespace": "https://schema.ccmm.cz/research-data/1.1",
+      "namespacePrefix": "ccmm"
+    }
+  ],
+  "resources": {
+    "4fd91afc-e490-4b08-bbdf-4c1442cb70eb": {
+      "types": [
+        "https://ofn.gov.cz/slovník/psm/Schema"
+      ],
+      "iri": "4fd91afc-e490-4b08-bbdf-4c1442cb70eb",
+      "dataPsmHumanLabel": {
+        "cs": "Resource agent role type",
+        "en": "Resource agent role type"
+      },
+      "dataPsmHumanDescription": {
+        "cs": "Datová struktura pro Resource agent role type. An idea or notion; a unit of thought.",
+        "en": "Data structure for Resource agent role type. An idea or notion; a unit of thought."
+      },
+      "dataPsmTechnicalLabel": null,
+      "dataPsmRoots": [
+        "https://ofn.gov.cz/class/1742235606195-b8fa-9b2f-a5cf"
+      ],
+      "dataPsmParts": [
+        "https://ofn.gov.cz/class/1742235606195-b8fa-9b2f-a5cf",
+        "https://ofn.gov.cz/attribute/1753791625528-fae3-a34f-8492"
+      ],
+      "extensions": {
+        "https://ofn.gov.cz/slovník/psm/extensions/xml": {
+          "namespace": "https://schema.ccmm.cz/research-data/1.1",
+          "namespacePrefix": "ccmm"
+        }
+      },
+      "jsonEnforceContext": "no"
+    },
+    "https://ofn.gov.cz/class/1742235606195-b8fa-9b2f-a5cf": {
+      "types": [
+        "https://ofn.gov.cz/slovník/psm/Class"
+      ],
+      "iri": "https://ofn.gov.cz/class/1742235606195-b8fa-9b2f-a5cf",
+      "dataPsmHumanLabel": null,
+      "dataPsmHumanDescription": null,
+      "dataPsmTechnicalLabel": "resource_agent_role_type",
+      "dataPsmInterpretation": "ppu00famb3am7w6qsdm",
+      "dataPsmExtends": [],
+      "dataPsmParts": [
+        "https://ofn.gov.cz/attribute/1753791625528-fae3-a34f-8492"
+      ],
+      "dataPsmIsClosed": null,
+      "instancesHaveIdentity": "ALWAYS"
+    },
+    "https://ofn.gov.cz/attribute/1753791625528-fae3-a34f-8492": {
+      "types": [
+        "https://ofn.gov.cz/slovník/psm/Attribute"
+      ],
+      "iri": "https://ofn.gov.cz/attribute/1753791625528-fae3-a34f-8492",
+      "dataPsmHumanLabel": null,
+      "dataPsmHumanDescription": null,
+      "dataPsmTechnicalLabel": "label",
+      "dataPsmInterpretation": "k1mch2oi1gm8o9ztmd",
+      "dataPsmDatatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    }
+  }
+}

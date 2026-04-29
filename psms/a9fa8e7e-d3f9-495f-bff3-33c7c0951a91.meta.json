@@ -1,0 +1,21 @@
+{
+  "iri": "6f97608f-3118-4975-a7e3-046f8fc0c04f",
+  "projectIri": "a9fa8e7e-d3f9-495f-bff3-33c7c0951a91",
+  "types": [
+    "http://dataspecer.com/resources/v1/psm"
+  ],
+  "userMetadata": {
+    "label": {
+      "cs": "Agent",
+      "en": "Agent"
+    },
+    "description": {
+      "cs": "Datová struktura pro Agent. Any entity carrying out actions with respect to the entities Catalogue and the Catalogued Resources.",
+      "en": "Data structure for Agent. Any entity carrying out actions with respect to the entities Catalogue and the Catalogued Resources."
+    }
+  },
+  "metadata": {},
+  "_version": 1,
+  "_exportVersion": 2,
+  "_exportedBy": "http://localhost:3100"
+}

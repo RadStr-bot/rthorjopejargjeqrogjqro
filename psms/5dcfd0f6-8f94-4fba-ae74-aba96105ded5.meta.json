@@ -1,0 +1,21 @@
+{
+  "iri": "6bd745af-c5eb-4b89-8679-248e67f53ab7",
+  "projectIri": "5dcfd0f6-8f94-4fba-ae74-aba96105ded5",
+  "types": [
+    "http://dataspecer.com/resources/v1/psm"
+  ],
+  "userMetadata": {
+    "label": {
+      "en": "Time instant",
+      "cs": "Time instant"
+    },
+    "description": {
+      "en": "Data structure for Time instant. A temporal entity with zero extent or duration.",
+      "cs": "Datová struktura pro Time instant. A temporal entity with zero extent or duration."
+    }
+  },
+  "metadata": {},
+  "_version": 1,
+  "_exportVersion": 2,
+  "_exportedBy": "http://localhost:3100"
+}

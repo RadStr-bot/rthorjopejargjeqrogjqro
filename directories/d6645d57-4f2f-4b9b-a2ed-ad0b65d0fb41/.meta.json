@@ -1,0 +1,19 @@
+{
+  "iri": "d54a372a-b13d-479f-b8d8-2ce4c9a06b25/fda4bd64-1634-45a4-a39e-ebaa365be8c9",
+  "projectIri": "d6645d57-4f2f-4b9b-a2ed-ad0b65d0fb41",
+  "types": [
+    "http://dataspecer.com/resources/local/package"
+  ],
+  "userMetadata": {
+    "label": {
+      "en": "DataCite"
+    },
+    "description": {},
+    "importedFromUrl": "https://michalmed.github.io/DataCite/en/",
+    "documentBaseUrl": "https://michalmed.github.io/DataCite/en/"
+  },
+  "metadata": {},
+  "_version": 1,
+  "_exportVersion": 2,
+  "_exportedBy": "http://localhost:3100"
+}

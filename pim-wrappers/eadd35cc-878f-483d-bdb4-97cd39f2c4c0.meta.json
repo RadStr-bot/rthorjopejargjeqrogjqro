@@ -1,0 +1,16 @@
+{
+  "iri": "8yoba",
+  "projectIri": "eadd35cc-878f-483d-bdb4-97cd39f2c4c0",
+  "types": [
+    "https://dataspecer.com/core/model-descriptor/pim-store-wrapper"
+  ],
+  "userMetadata": {
+    "label": {
+      "en": "vCard Ontology"
+    }
+  },
+  "metadata": {},
+  "_version": 1,
+  "_exportVersion": 2,
+  "_exportedBy": "http://localhost:3100"
+}

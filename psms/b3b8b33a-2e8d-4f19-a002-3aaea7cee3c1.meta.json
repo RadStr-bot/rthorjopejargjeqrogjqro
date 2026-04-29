@@ -1,0 +1,21 @@
+{
+  "iri": "94b1a42f-26f0-4ab5-8bab-67cb3efde1a4",
+  "projectIri": "b3b8b33a-2e8d-4f19-a002-3aaea7cee3c1",
+  "types": [
+    "http://dataspecer.com/resources/v1/psm"
+  ],
+  "userMetadata": {
+    "label": {
+      "cs": "Katalogizační záznam",
+      "en": "Metadata Record"
+    },
+    "description": {
+      "cs": "Datová struktura pro Katalogizační záznam. Záznam v datovém katalogu popisující jednu datovou sadu či datovou službu.",
+      "en": "Data structure for Metadata Record. Description of the metadata record of the dataset. "
+    }
+  },
+  "metadata": {},
+  "_version": 1,
+  "_exportVersion": 2,
+  "_exportedBy": "http://localhost:3100"
+}

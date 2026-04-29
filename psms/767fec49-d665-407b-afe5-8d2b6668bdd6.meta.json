@@ -1,0 +1,21 @@
+{
+  "iri": "c92046f6-f408-4d39-8fe8-c83ecffb56cd",
+  "projectIri": "767fec49-d665-407b-afe5-8d2b6668bdd6",
+  "types": [
+    "http://dataspecer.com/resources/v1/psm"
+  ],
+  "userMetadata": {
+    "label": {
+      "cs": "File",
+      "en": "File"
+    },
+    "description": {
+      "cs": "Datová struktura pro File. Downloadable file in given format.",
+      "en": "Data structure for File. Downloadable file in given format."
+    }
+  },
+  "metadata": {},
+  "_version": 1,
+  "_exportVersion": 2,
+  "_exportedBy": "http://localhost:3100"
+}

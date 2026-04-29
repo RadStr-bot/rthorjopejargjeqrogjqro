@@ -1,0 +1,16 @@
+{
+  "iri": "ug1sk",
+  "projectIri": "96e805d7-91b4-4746-ae8e-f82fb331b778",
+  "types": [
+    "https://dataspecer.com/core/model-descriptor/pim-store-wrapper"
+  ],
+  "userMetadata": {
+    "label": {
+      "en": "ADMS - Asset Description Metadata Schema"
+    }
+  },
+  "metadata": {},
+  "_version": 1,
+  "_exportVersion": 2,
+  "_exportedBy": "http://localhost:3100"
+}

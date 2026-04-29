@@ -1,0 +1,21 @@
+{
+  "iri": "2ce9fee1-c7e5-4eed-9007-ed1ad3b42fa6",
+  "projectIri": "13e78577-1994-41ad-aece-cee7829a47ca",
+  "types": [
+    "http://dataspecer.com/resources/v1/psm"
+  ],
+  "userMetadata": {
+    "label": {
+      "cs": "Location",
+      "en": "Location"
+    },
+    "description": {
+      "cs": "Datová struktura pro Location. Spatial region, named place or geometry representation of a place related to the dataset. ",
+      "en": "Data structure for Location. Spatial region, named place or geometry representation of a place related to the dataset. "
+    }
+  },
+  "metadata": {},
+  "_version": 1,
+  "_exportVersion": 2,
+  "_exportedBy": "http://localhost:3100"
+}

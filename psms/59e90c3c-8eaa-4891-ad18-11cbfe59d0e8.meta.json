@@ -1,0 +1,21 @@
+{
+  "iri": "795a389f-0b63-4654-a2ea-e09acb9e6b41",
+  "projectIri": "59e90c3c-8eaa-4891-ad18-11cbfe59d0e8",
+  "types": [
+    "http://dataspecer.com/resources/v1/psm"
+  ],
+  "userMetadata": {
+    "label": {
+      "en": "Language system",
+      "cs": "Language system"
+    },
+    "description": {
+      "en": "Data structure for Language system. A system of signs, symbols, sounds, gestures, or rules used in communication, e.g. a language.",
+      "cs": "Datová struktura pro Language system. A system of signs, symbols, sounds, gestures, or rules used in communication, e.g. a language."
+    }
+  },
+  "metadata": {},
+  "_version": 1,
+  "_exportVersion": 2,
+  "_exportedBy": "http://localhost:3100"
+}

@@ -1,0 +1,21 @@
+{
+  "iri": "f641e42e-5364-4b11-a52e-eb18ae45d171",
+  "projectIri": "7f29fde4-f7d4-4c92-817b-f937ebd7a1b8",
+  "types": [
+    "http://dataspecer.com/resources/v1/psm"
+  ],
+  "userMetadata": {
+    "label": {
+      "cs": "Subject",
+      "en": "Subject"
+    },
+    "description": {
+      "cs": "Datová struktura pro Subject. Subject, keyword, classification code, or key phrase describing the resource.",
+      "en": "Data structure for Subject. Subject, keyword, classification code, or key phrase describing the resource."
+    }
+  },
+  "metadata": {},
+  "_version": 1,
+  "_exportVersion": 2,
+  "_exportedBy": "http://localhost:3100"
+}

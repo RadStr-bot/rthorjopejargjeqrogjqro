@@ -1,0 +1,21 @@
+{
+  "iri": "4fd91afc-e490-4b08-bbdf-4c1442cb70eb",
+  "projectIri": "c73d2d86-9e44-4b92-93eb-8a7fffb50df7",
+  "types": [
+    "http://dataspecer.com/resources/v1/psm"
+  ],
+  "userMetadata": {
+    "label": {
+      "cs": "Resource agent role type",
+      "en": "Resource agent role type"
+    },
+    "description": {
+      "cs": "Datová struktura pro Resource agent role type. An idea or notion; a unit of thought.",
+      "en": "Data structure for Resource agent role type. An idea or notion; a unit of thought."
+    }
+  },
+  "metadata": {},
+  "_version": 1,
+  "_exportVersion": 2,
+  "_exportedBy": "http://localhost:3100"
+}
