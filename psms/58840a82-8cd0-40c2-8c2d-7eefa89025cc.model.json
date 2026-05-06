@@ -33,7 +33,7 @@
       ],
       "iri": "https://ofn.gov.cz/operation/1742235374572-296a-730d-908f",
       "parent": "https://ofn.gov.cz/operation/1742235374538-47b5-ca46-b436",
-      "dataPsmResource": "ce434b23-3e88-46b8-9137-94968f74e722",
+      "dataPsmResource": "8a122c67-add8-4097-b15b-43a6147e0a80",
       "dataPsmHumanLabel": {
         "cs": "Funding reference",
         "en": "Funding reference"
@@ -46,7 +46,7 @@
       ],
       "iri": "https://ofn.gov.cz/operation/1742235374602-a58f-11fd-96bc",
       "parent": "https://ofn.gov.cz/operation/1742235374572-296a-730d-908f",
-      "dataPsmResource": "ce434b23-3e88-46b8-9137-94968f74e722",
+      "dataPsmResource": "8a122c67-add8-4097-b15b-43a6147e0a80",
       "dataPsmHumanDescription": {
         "cs": "Datová struktura pro Funding reference. Information about financial support (funding) for the resource being registered.",
         "en": "Data structure for Funding reference. Information about financial support (funding) for the resource being registered."
@@ -247,7 +247,7 @@
       "iri": "https://ofn.gov.cz/operation/1747378395951-3a35-03b7-a9ca",
       "parent": "https://ofn.gov.cz/operation/1742339383931-aade-8b22-8a1c",
       "dataPsmNewIri": null,
-      "dataPsmSpecification": "6f97608f-3118-4975-a7e3-046f8fc0c04f",
+      "dataPsmSpecification": "b8cfe05a-f1a5-4701-9f9a-983f6f817b3b",
       "dataPsmClass": "https://ofn.gov.cz/or/1744806345469-98ad-4e4d-8c25"
     },
     {
@@ -277,7 +277,7 @@
       ],
       "iri": "https://ofn.gov.cz/operation/1753446037134-7461-4f39-9694",
       "parent": "https://ofn.gov.cz/operation/1750713860843-1f8f-36a7-a199",
-      "dataPsmSchema": "ce434b23-3e88-46b8-9137-94968f74e722",
+      "dataPsmSchema": "8a122c67-add8-4097-b15b-43a6147e0a80",
       "namespace": "https://schema.ccmm.cz/funding-reference",
       "namespacePrefix": "ccmm-fr"
     },
@@ -288,7 +288,7 @@
       ],
       "iri": "https://ofn.gov.cz/operation/1754377925576-875e-47a6-a32a",
       "parent": "https://ofn.gov.cz/operation/1753446037134-7461-4f39-9694",
-      "dataPsmSchema": "ce434b23-3e88-46b8-9137-94968f74e722",
+      "dataPsmSchema": "8a122c67-add8-4097-b15b-43a6147e0a80",
       "namespace": "https://schema.ccmm.cz/research-data/1.0.0",
       "namespacePrefix": "ccmm"
     },
@@ -299,7 +299,7 @@
       ],
       "iri": "https://ofn.gov.cz/operation/1754377925672-289b-a0ec-be6a",
       "parent": "https://ofn.gov.cz/operation/1754377925576-875e-47a6-a32a",
-      "dataPsmEntity": "ce434b23-3e88-46b8-9137-94968f74e722",
+      "dataPsmEntity": "8a122c67-add8-4097-b15b-43a6147e0a80",
       "jsonEnforceContext": "no"
     },
     {
@@ -309,7 +309,7 @@
       ],
       "iri": "https://ofn.gov.cz/operation/1754407694116-dba8-c22c-ada2",
       "parent": "https://ofn.gov.cz/operation/1754377925672-289b-a0ec-be6a",
-      "dataPsmSchema": "ce434b23-3e88-46b8-9137-94968f74e722",
+      "dataPsmSchema": "8a122c67-add8-4097-b15b-43a6147e0a80",
       "namespace": "https://schema.ccmm.cz/research-data/1.0",
       "namespacePrefix": "ccmm"
     },
@@ -342,17 +342,17 @@
       ],
       "iri": "https://ofn.gov.cz/operation/1763039216210-907f-5bc5-abae",
       "parent": "https://ofn.gov.cz/operation/1756794506045-cc74-6d9e-a91a",
-      "dataPsmSchema": "ce434b23-3e88-46b8-9137-94968f74e722",
+      "dataPsmSchema": "8a122c67-add8-4097-b15b-43a6147e0a80",
       "namespace": "https://schema.ccmm.cz/research-data/1.1",
       "namespacePrefix": "ccmm"
     }
   ],
   "resources": {
-    "ce434b23-3e88-46b8-9137-94968f74e722": {
+    "8a122c67-add8-4097-b15b-43a6147e0a80": {
       "types": [
         "https://ofn.gov.cz/slovník/psm/Schema"
       ],
-      "iri": "ce434b23-3e88-46b8-9137-94968f74e722",
+      "iri": "8a122c67-add8-4097-b15b-43a6147e0a80",
       "dataPsmHumanLabel": {
         "cs": "Funding reference",
         "en": "Funding reference"
@@ -459,7 +459,7 @@
         "https://ofn.gov.cz/slovník/psm/ClassReference"
       ],
       "iri": "https://ofn.gov.cz/class-reference/1747378395951-391c-d545-bf9c",
-      "dataPsmSpecification": "6f97608f-3118-4975-a7e3-046f8fc0c04f",
+      "dataPsmSpecification": "b8cfe05a-f1a5-4701-9f9a-983f6f817b3b",
       "dataPsmClass": "https://ofn.gov.cz/or/1744806345469-98ad-4e4d-8c25"
     }
   }

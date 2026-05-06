@@ -33,7 +33,7 @@
       ],
       "iri": "https://ofn.gov.cz/operation/1747640270965-f533-6775-8096",
       "parent": "https://ofn.gov.cz/operation/1747640270938-a532-a844-bcaf",
-      "dataPsmResource": "2fea9b2a-6741-4b89-9438-99181dc0c6f9",
+      "dataPsmResource": "e428fc05-32e8-4f6b-8ea7-d87eb4798893",
       "dataPsmHumanLabel": {
         "en": "License Document",
         "cs": "License Document"
@@ -46,7 +46,7 @@
       ],
       "iri": "https://ofn.gov.cz/operation/1747640270999-5018-20e6-a4d9",
       "parent": "https://ofn.gov.cz/operation/1747640270965-f533-6775-8096",
-      "dataPsmResource": "2fea9b2a-6741-4b89-9438-99181dc0c6f9",
+      "dataPsmResource": "e428fc05-32e8-4f6b-8ea7-d87eb4798893",
       "dataPsmHumanDescription": {
         "en": "Data structure for License Document. A legal document giving official permission to do something with a resource.",
         "cs": "Datová struktura pro License Document. A legal document giving official permission to do something with a resource."
@@ -84,7 +84,7 @@
       ],
       "iri": "https://ofn.gov.cz/operation/1751272131565-376d-f65f-8e1f",
       "parent": "https://ofn.gov.cz/operation/1750770790845-daab-a13d-b319",
-      "dataPsmEntity": "2fea9b2a-6741-4b89-9438-99181dc0c6f9",
+      "dataPsmEntity": "e428fc05-32e8-4f6b-8ea7-d87eb4798893",
       "jsonEnforceContext": "no"
     },
     {
@@ -94,7 +94,7 @@
       ],
       "iri": "https://ofn.gov.cz/operation/1753448182417-6884-66c1-a4e3",
       "parent": "https://ofn.gov.cz/operation/1751272131565-376d-f65f-8e1f",
-      "dataPsmSchema": "2fea9b2a-6741-4b89-9438-99181dc0c6f9",
+      "dataPsmSchema": "e428fc05-32e8-4f6b-8ea7-d87eb4798893",
       "namespace": "https://schema.ccmm.cz/license-document",
       "namespacePrefix": "ccmm-license-doc"
     },
@@ -105,7 +105,7 @@
       ],
       "iri": "https://ofn.gov.cz/operation/1754378376626-dc23-97f2-ab1e",
       "parent": "https://ofn.gov.cz/operation/1753448182417-6884-66c1-a4e3",
-      "dataPsmSchema": "2fea9b2a-6741-4b89-9438-99181dc0c6f9",
+      "dataPsmSchema": "e428fc05-32e8-4f6b-8ea7-d87eb4798893",
       "namespace": "https://schema.ccmm.cz/research-data/1.0.0",
       "namespacePrefix": "ccmm"
     },
@@ -116,7 +116,7 @@
       ],
       "iri": "https://ofn.gov.cz/operation/1754408159647-4e53-6663-b1e3",
       "parent": "https://ofn.gov.cz/operation/1754378376626-dc23-97f2-ab1e",
-      "dataPsmSchema": "2fea9b2a-6741-4b89-9438-99181dc0c6f9",
+      "dataPsmSchema": "e428fc05-32e8-4f6b-8ea7-d87eb4798893",
       "namespace": "https://schema.ccmm.cz/research-data/1.0",
       "namespacePrefix": "ccmm"
     },
@@ -137,17 +137,17 @@
       ],
       "iri": "https://ofn.gov.cz/operation/1763039532296-d812-ad08-af38",
       "parent": "https://ofn.gov.cz/operation/1761115085946-5578-1cb2-9e29",
-      "dataPsmSchema": "2fea9b2a-6741-4b89-9438-99181dc0c6f9",
+      "dataPsmSchema": "e428fc05-32e8-4f6b-8ea7-d87eb4798893",
       "namespace": "https://schema.ccmm.cz/research-data/1.1",
       "namespacePrefix": "ccmm"
     }
   ],
   "resources": {
-    "2fea9b2a-6741-4b89-9438-99181dc0c6f9": {
+    "e428fc05-32e8-4f6b-8ea7-d87eb4798893": {
       "types": [
         "https://ofn.gov.cz/slovník/psm/Schema"
       ],
-      "iri": "2fea9b2a-6741-4b89-9438-99181dc0c6f9",
+      "iri": "e428fc05-32e8-4f6b-8ea7-d87eb4798893",
       "dataPsmHumanLabel": {
         "en": "License Document",
         "cs": "License Document"

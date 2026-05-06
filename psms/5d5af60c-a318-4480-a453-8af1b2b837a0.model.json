@@ -33,7 +33,7 @@
       ],
       "iri": "https://ofn.gov.cz/operation/1742341134428-0605-c5f4-9a80",
       "parent": "https://ofn.gov.cz/operation/1742341134390-d602-c93d-9291",
-      "dataPsmResource": "f5642222-ae65-4b72-8f09-414f74ba7b7e",
+      "dataPsmResource": "ca49e79e-2cba-49a0-8242-0f712eeb375d",
       "dataPsmHumanLabel": {
         "cs": "Data service",
         "en": "Data service"
@@ -46,7 +46,7 @@
       ],
       "iri": "https://ofn.gov.cz/operation/1742341134464-10dd-9e60-b67d",
       "parent": "https://ofn.gov.cz/operation/1742341134428-0605-c5f4-9a80",
-      "dataPsmResource": "f5642222-ae65-4b72-8f09-414f74ba7b7e",
+      "dataPsmResource": "ca49e79e-2cba-49a0-8242-0f712eeb375d",
       "dataPsmHumanDescription": {
         "cs": "Datová struktura pro Data service. Umístění či přístupový bod poskytující operace související s hledáním, přistupem k, či výkonem funkcí na datech či souvisejících zdrojích.",
         "en": "Data structure for Data service. A collection of operations that provides access to one or more datasets or data processing functions."
@@ -193,7 +193,7 @@
       ],
       "iri": "https://ofn.gov.cz/operation/1753448025702-df01-93ca-8c35",
       "parent": "https://ofn.gov.cz/operation/1750770608846-d7ec-2647-a738",
-      "dataPsmSchema": "f5642222-ae65-4b72-8f09-414f74ba7b7e",
+      "dataPsmSchema": "ca49e79e-2cba-49a0-8242-0f712eeb375d",
       "namespace": "https://schema.ccmm.cz/data-service",
       "namespacePrefix": "ccmm-ds"
     },
@@ -204,7 +204,7 @@
       ],
       "iri": "https://ofn.gov.cz/operation/1754378325738-abc4-41eb-bf09",
       "parent": "https://ofn.gov.cz/operation/1753448025702-df01-93ca-8c35",
-      "dataPsmSchema": "f5642222-ae65-4b72-8f09-414f74ba7b7e",
+      "dataPsmSchema": "ca49e79e-2cba-49a0-8242-0f712eeb375d",
       "namespace": "https://schema.ccmm.cz/research-data/1.0.0",
       "namespacePrefix": "ccmm"
     },
@@ -215,7 +215,7 @@
       ],
       "iri": "https://ofn.gov.cz/operation/1754408096432-9079-00a3-b45b",
       "parent": "https://ofn.gov.cz/operation/1754378325738-abc4-41eb-bf09",
-      "dataPsmSchema": "f5642222-ae65-4b72-8f09-414f74ba7b7e",
+      "dataPsmSchema": "ca49e79e-2cba-49a0-8242-0f712eeb375d",
       "namespace": "https://schema.ccmm.cz/research-data/1.0",
       "namespacePrefix": "ccmm"
     },
@@ -226,7 +226,7 @@
       ],
       "iri": "https://ofn.gov.cz/operation/1763039490374-1671-3f26-aff0",
       "parent": "https://ofn.gov.cz/operation/1754408096432-9079-00a3-b45b",
-      "dataPsmSchema": "f5642222-ae65-4b72-8f09-414f74ba7b7e",
+      "dataPsmSchema": "ca49e79e-2cba-49a0-8242-0f712eeb375d",
       "namespace": "https://schema.ccmm.cz/research-data/1.1",
       "namespacePrefix": "ccmm"
     },
@@ -238,7 +238,7 @@
       "iri": "https://ofn.gov.cz/operation/1765914061061-e840-1bde-8147",
       "parent": "https://ofn.gov.cz/operation/1763039490374-1671-3f26-aff0",
       "dataPsmNewIri": null,
-      "dataPsmSpecification": "0f477e04-ab77-479a-ba9f-5d8ae8ffafbe",
+      "dataPsmSpecification": "1890b685-b4fb-496b-bd63-b5a29c27a969",
       "dataPsmClass": "https://ofn.gov.cz/class/1765909420903-5abd-5a0e-810e"
     },
     {
@@ -253,11 +253,11 @@
     }
   ],
   "resources": {
-    "f5642222-ae65-4b72-8f09-414f74ba7b7e": {
+    "ca49e79e-2cba-49a0-8242-0f712eeb375d": {
       "types": [
         "https://ofn.gov.cz/slovník/psm/Schema"
       ],
-      "iri": "f5642222-ae65-4b72-8f09-414f74ba7b7e",
+      "iri": "ca49e79e-2cba-49a0-8242-0f712eeb375d",
       "dataPsmHumanLabel": {
         "cs": "Data service",
         "en": "Data service"
@@ -338,7 +338,7 @@
         "https://ofn.gov.cz/slovník/psm/ClassReference"
       ],
       "iri": "https://ofn.gov.cz/class-reference/1765914061061-c3be-abe1-9f4f",
-      "dataPsmSpecification": "0f477e04-ab77-479a-ba9f-5d8ae8ffafbe",
+      "dataPsmSpecification": "1890b685-b4fb-496b-bd63-b5a29c27a969",
       "dataPsmClass": "https://ofn.gov.cz/class/1765909420903-5abd-5a0e-810e"
     }
   }

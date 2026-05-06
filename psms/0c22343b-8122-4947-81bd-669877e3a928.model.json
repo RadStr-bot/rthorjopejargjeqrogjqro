@@ -33,7 +33,7 @@
       ],
       "iri": "https://ofn.gov.cz/operation/1747685228178-4581-0551-b1c8",
       "parent": "https://ofn.gov.cz/operation/1747685228144-9342-8c6c-a0f5",
-      "dataPsmResource": "5174f57b-8fb7-4c87-bae9-df331bc2626b",
+      "dataPsmResource": "57d23729-a1d1-4628-b761-6da934ee244a",
       "dataPsmHumanLabel": {
         "en": "Location relation type",
         "cs": "Location relation type"
@@ -46,7 +46,7 @@
       ],
       "iri": "https://ofn.gov.cz/operation/1747685228202-3ae7-23d5-9d15",
       "parent": "https://ofn.gov.cz/operation/1747685228178-4581-0551-b1c8",
-      "dataPsmResource": "5174f57b-8fb7-4c87-bae9-df331bc2626b",
+      "dataPsmResource": "57d23729-a1d1-4628-b761-6da934ee244a",
       "dataPsmHumanDescription": {
         "en": "Data structure for Location relation type. Relation of the dataset to the resource.",
         "cs": "Datová struktura pro Location relation type. Relation of the dataset to the resource."
@@ -94,7 +94,7 @@
       ],
       "iri": "https://ofn.gov.cz/operation/1753448942055-dd09-9017-9240",
       "parent": "https://ofn.gov.cz/operation/1750770300644-1443-c317-815a",
-      "dataPsmSchema": "5174f57b-8fb7-4c87-bae9-df331bc2626b",
+      "dataPsmSchema": "57d23729-a1d1-4628-b761-6da934ee244a",
       "namespace": "https://schema.ccmm.cz/location-relation-type",
       "namespacePrefix": "ccmm-locrt"
     },
@@ -105,7 +105,7 @@
       ],
       "iri": "https://ofn.gov.cz/operation/1754378454852-3a26-e1b5-8312",
       "parent": "https://ofn.gov.cz/operation/1753448942055-dd09-9017-9240",
-      "dataPsmSchema": "5174f57b-8fb7-4c87-bae9-df331bc2626b",
+      "dataPsmSchema": "57d23729-a1d1-4628-b761-6da934ee244a",
       "namespace": "https://schema.ccmm.cz/research-data/1.0.0",
       "namespacePrefix": "ccmm"
     },
@@ -116,7 +116,7 @@
       ],
       "iri": "https://ofn.gov.cz/operation/1754408225190-7f81-33ef-81c8",
       "parent": "https://ofn.gov.cz/operation/1754378454852-3a26-e1b5-8312",
-      "dataPsmSchema": "5174f57b-8fb7-4c87-bae9-df331bc2626b",
+      "dataPsmSchema": "57d23729-a1d1-4628-b761-6da934ee244a",
       "namespace": "https://schema.ccmm.cz/research-data/1.0",
       "namespacePrefix": "ccmm"
     },
@@ -127,7 +127,7 @@
       ],
       "iri": "https://ofn.gov.cz/operation/1754408225372-7e8c-12a2-826f",
       "parent": "https://ofn.gov.cz/operation/1754408225190-7f81-33ef-81c8",
-      "dataPsmEntity": "5174f57b-8fb7-4c87-bae9-df331bc2626b",
+      "dataPsmEntity": "57d23729-a1d1-4628-b761-6da934ee244a",
       "jsonEnforceContext": "no"
     },
     {
@@ -137,17 +137,17 @@
       ],
       "iri": "https://ofn.gov.cz/operation/1763039597899-6ebb-33de-b118",
       "parent": "https://ofn.gov.cz/operation/1754408225372-7e8c-12a2-826f",
-      "dataPsmSchema": "5174f57b-8fb7-4c87-bae9-df331bc2626b",
+      "dataPsmSchema": "57d23729-a1d1-4628-b761-6da934ee244a",
       "namespace": "https://schema.ccmm.cz/research-data/1.1",
       "namespacePrefix": "ccmm"
     }
   ],
   "resources": {
-    "5174f57b-8fb7-4c87-bae9-df331bc2626b": {
+    "57d23729-a1d1-4628-b761-6da934ee244a": {
       "types": [
         "https://ofn.gov.cz/slovník/psm/Schema"
       ],
-      "iri": "5174f57b-8fb7-4c87-bae9-df331bc2626b",
+      "iri": "57d23729-a1d1-4628-b761-6da934ee244a",
       "dataPsmHumanLabel": {
         "en": "Location relation type",
         "cs": "Location relation type"

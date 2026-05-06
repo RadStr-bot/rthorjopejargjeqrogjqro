@@ -33,7 +33,7 @@
       ],
       "iri": "https://ofn.gov.cz/operation/1742288763226-007c-6e6a-9cde",
       "parent": "https://ofn.gov.cz/operation/1742288763199-ce5f-ab5b-9d63",
-      "dataPsmResource": "16cf6a9e-b46d-4ece-9c91-91f53a19cec9",
+      "dataPsmResource": "ba25709f-4d91-436e-b1f9-de8224a7fb6b",
       "dataPsmHumanLabel": {
         "cs": "Provenance Statement",
         "en": "Provenance Statement"
@@ -46,7 +46,7 @@
       ],
       "iri": "https://ofn.gov.cz/operation/1742288763262-593d-b637-90ea",
       "parent": "https://ofn.gov.cz/operation/1742288763226-007c-6e6a-9cde",
-      "dataPsmResource": "16cf6a9e-b46d-4ece-9c91-91f53a19cec9",
+      "dataPsmResource": "ba25709f-4d91-436e-b1f9-de8224a7fb6b",
       "dataPsmHumanDescription": {
         "cs": "Datová struktura pro Provenance Statement. Any changes in ownership and custody of a resource since its creation that are significant for its authenticity, integrity, and interpretation.",
         "en": "Data structure for Provenance Statement. Any changes in ownership and custody of a resource since its creation that are significant for its authenticity, integrity, and interpretation."
@@ -84,7 +84,7 @@
       ],
       "iri": "https://ofn.gov.cz/operation/1751275985603-d832-2559-a1fa",
       "parent": "https://ofn.gov.cz/operation/1750770344588-f43c-79d4-85ed",
-      "dataPsmEntity": "16cf6a9e-b46d-4ece-9c91-91f53a19cec9",
+      "dataPsmEntity": "ba25709f-4d91-436e-b1f9-de8224a7fb6b",
       "jsonEnforceContext": "no"
     },
     {
@@ -103,7 +103,7 @@
       ],
       "iri": "https://ofn.gov.cz/operation/1753447637471-0040-1c12-aae2",
       "parent": "https://ofn.gov.cz/operation/1751276177560-7886-8a7e-9c3c",
-      "dataPsmSchema": "16cf6a9e-b46d-4ece-9c91-91f53a19cec9",
+      "dataPsmSchema": "ba25709f-4d91-436e-b1f9-de8224a7fb6b",
       "namespace": "https://schema.ccmm.cz/provenance-statement",
       "namespacePrefix": "ccmm-pp"
     },
@@ -114,7 +114,7 @@
       ],
       "iri": "https://ofn.gov.cz/operation/1754378134125-3132-5d0f-9a40",
       "parent": "https://ofn.gov.cz/operation/1753447637471-0040-1c12-aae2",
-      "dataPsmSchema": "16cf6a9e-b46d-4ece-9c91-91f53a19cec9",
+      "dataPsmSchema": "ba25709f-4d91-436e-b1f9-de8224a7fb6b",
       "namespace": "https://schema.ccmm.cz/research-data/1.0.0",
       "namespacePrefix": "ccmm"
     },
@@ -125,7 +125,7 @@
       ],
       "iri": "https://ofn.gov.cz/operation/1754407960251-e46f-1e9a-bd60",
       "parent": "https://ofn.gov.cz/operation/1754378134125-3132-5d0f-9a40",
-      "dataPsmSchema": "16cf6a9e-b46d-4ece-9c91-91f53a19cec9",
+      "dataPsmSchema": "ba25709f-4d91-436e-b1f9-de8224a7fb6b",
       "namespace": "https://schema.ccmm.cz/research-data/1.0",
       "namespacePrefix": "ccmm"
     },
@@ -136,17 +136,17 @@
       ],
       "iri": "https://ofn.gov.cz/operation/1763039346460-ef30-6d15-9246",
       "parent": "https://ofn.gov.cz/operation/1754407960251-e46f-1e9a-bd60",
-      "dataPsmSchema": "16cf6a9e-b46d-4ece-9c91-91f53a19cec9",
+      "dataPsmSchema": "ba25709f-4d91-436e-b1f9-de8224a7fb6b",
       "namespace": "https://schema.ccmm.cz/research-data/1.1",
       "namespacePrefix": "ccmm"
     }
   ],
   "resources": {
-    "16cf6a9e-b46d-4ece-9c91-91f53a19cec9": {
+    "ba25709f-4d91-436e-b1f9-de8224a7fb6b": {
       "types": [
         "https://ofn.gov.cz/slovník/psm/Schema"
       ],
-      "iri": "16cf6a9e-b46d-4ece-9c91-91f53a19cec9",
+      "iri": "ba25709f-4d91-436e-b1f9-de8224a7fb6b",
       "dataPsmHumanLabel": {
         "cs": "Provenance Statement",
         "en": "Provenance Statement"

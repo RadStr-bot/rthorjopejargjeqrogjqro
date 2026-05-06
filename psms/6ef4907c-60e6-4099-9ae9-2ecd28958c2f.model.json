@@ -33,7 +33,7 @@
       ],
       "iri": "https://ofn.gov.cz/operation/1742288708055-7f8e-c9b2-9c34",
       "parent": "https://ofn.gov.cz/operation/1742288708023-16e8-707f-897d",
-      "dataPsmResource": "9d334437-883a-4d6b-a31e-64504dd8f60c",
+      "dataPsmResource": "9fa31f0c-b771-436d-b963-fa984c32982d",
       "dataPsmHumanLabel": {
         "cs": "Validation result",
         "en": "Validation result"
@@ -46,7 +46,7 @@
       ],
       "iri": "https://ofn.gov.cz/operation/1742288708083-5b8f-49cb-a141",
       "parent": "https://ofn.gov.cz/operation/1742288708055-7f8e-c9b2-9c34",
-      "dataPsmResource": "9d334437-883a-4d6b-a31e-64504dd8f60c",
+      "dataPsmResource": "9fa31f0c-b771-436d-b963-fa984c32982d",
       "dataPsmHumanDescription": {
         "cs": "Datová struktura pro Validation result. Class describing the result of validation testing. It may include validation of metadata, data and/or web services accessing the data.",
         "en": "Data structure for Validation result. Class describing the result of validation testing. It may include validation of metadata, data and/or web services accessing the data."
@@ -84,7 +84,7 @@
       ],
       "iri": "https://ofn.gov.cz/operation/1751275997231-22a0-85b6-a99a",
       "parent": "https://ofn.gov.cz/operation/1750770531630-0bdf-cb8a-9b0f",
-      "dataPsmEntity": "9d334437-883a-4d6b-a31e-64504dd8f60c",
+      "dataPsmEntity": "9fa31f0c-b771-436d-b963-fa984c32982d",
       "jsonEnforceContext": "no"
     },
     {
@@ -103,7 +103,7 @@
       ],
       "iri": "https://ofn.gov.cz/operation/1753447573715-79c1-86ad-a06d",
       "parent": "https://ofn.gov.cz/operation/1751276189996-bef7-b8b2-8486",
-      "dataPsmSchema": "9d334437-883a-4d6b-a31e-64504dd8f60c",
+      "dataPsmSchema": "9fa31f0c-b771-436d-b963-fa984c32982d",
       "namespace": "https://schema.ccmm.cz/validation-result",
       "namespacePrefix": "ccmm-vr"
     },
@@ -114,7 +114,7 @@
       ],
       "iri": "https://ofn.gov.cz/operation/1754378087250-2145-b3ad-8e7f",
       "parent": "https://ofn.gov.cz/operation/1753447573715-79c1-86ad-a06d",
-      "dataPsmSchema": "9d334437-883a-4d6b-a31e-64504dd8f60c",
+      "dataPsmSchema": "9fa31f0c-b771-436d-b963-fa984c32982d",
       "namespace": "https://schema.ccmm.cz/research-data/1.0.0",
       "namespacePrefix": "ccmm"
     },
@@ -125,7 +125,7 @@
       ],
       "iri": "https://ofn.gov.cz/operation/1754407843568-beb3-f797-80a0",
       "parent": "https://ofn.gov.cz/operation/1754378087250-2145-b3ad-8e7f",
-      "dataPsmSchema": "9d334437-883a-4d6b-a31e-64504dd8f60c",
+      "dataPsmSchema": "9fa31f0c-b771-436d-b963-fa984c32982d",
       "namespace": "https://schema.ccmm.cz/research-data/1.0",
       "namespacePrefix": "ccmm"
     },
@@ -136,17 +136,17 @@
       ],
       "iri": "https://ofn.gov.cz/operation/1763039305922-bf34-439e-88bb",
       "parent": "https://ofn.gov.cz/operation/1754407843568-beb3-f797-80a0",
-      "dataPsmSchema": "9d334437-883a-4d6b-a31e-64504dd8f60c",
+      "dataPsmSchema": "9fa31f0c-b771-436d-b963-fa984c32982d",
       "namespace": "https://schema.ccmm.cz/research-data/1.1",
       "namespacePrefix": "ccmm"
     }
   ],
   "resources": {
-    "9d334437-883a-4d6b-a31e-64504dd8f60c": {
+    "9fa31f0c-b771-436d-b963-fa984c32982d": {
       "types": [
         "https://ofn.gov.cz/slovník/psm/Schema"
       ],
-      "iri": "9d334437-883a-4d6b-a31e-64504dd8f60c",
+      "iri": "9fa31f0c-b771-436d-b963-fa984c32982d",
       "dataPsmHumanLabel": {
         "cs": "Validation result",
         "en": "Validation result"

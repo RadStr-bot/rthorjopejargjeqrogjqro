@@ -33,7 +33,7 @@
       ],
       "iri": "https://ofn.gov.cz/operation/1747685414725-c281-d5d0-b4d3",
       "parent": "https://ofn.gov.cz/operation/1747685414698-a076-57c3-8761",
-      "dataPsmResource": "269ef730-dd16-4bef-acaf-58fb3d250259",
+      "dataPsmResource": "2c8fb58f-c452-40e6-bba3-742f0a3f2b47",
       "dataPsmHumanLabel": {
         "en": "Access rights",
         "cs": "Access rights"
@@ -46,7 +46,7 @@
       ],
       "iri": "https://ofn.gov.cz/operation/1747685414755-eab1-5e40-bccd",
       "parent": "https://ofn.gov.cz/operation/1747685414725-c281-d5d0-b4d3",
-      "dataPsmResource": "269ef730-dd16-4bef-acaf-58fb3d250259",
+      "dataPsmResource": "2c8fb58f-c452-40e6-bba3-742f0a3f2b47",
       "dataPsmHumanDescription": {
         "en": "Data structure for Access rights. Access rights to the resource.",
         "cs": "Datová struktura pro Access rights. Access rights to the resource."
@@ -84,7 +84,7 @@
       ],
       "iri": "https://ofn.gov.cz/operation/1753449010540-82a8-dd54-ac76",
       "parent": "https://ofn.gov.cz/operation/1750770757961-f228-d1e5-8045",
-      "dataPsmSchema": "269ef730-dd16-4bef-acaf-58fb3d250259",
+      "dataPsmSchema": "2c8fb58f-c452-40e6-bba3-742f0a3f2b47",
       "namespace": "https://schema.ccmm.cz/access-rights",
       "namespacePrefix": "ccmm-ar"
     },
@@ -95,7 +95,7 @@
       ],
       "iri": "https://ofn.gov.cz/operation/1753449010569-86ce-2b50-bdb8",
       "parent": "https://ofn.gov.cz/operation/1753449010540-82a8-dd54-ac76",
-      "dataPsmEntity": "269ef730-dd16-4bef-acaf-58fb3d250259",
+      "dataPsmEntity": "2c8fb58f-c452-40e6-bba3-742f0a3f2b47",
       "jsonEnforceContext": "no"
     },
     {
@@ -105,7 +105,7 @@
       ],
       "iri": "https://ofn.gov.cz/operation/1754378501284-2998-7cfc-ab72",
       "parent": "https://ofn.gov.cz/operation/1753449010569-86ce-2b50-bdb8",
-      "dataPsmSchema": "269ef730-dd16-4bef-acaf-58fb3d250259",
+      "dataPsmSchema": "2c8fb58f-c452-40e6-bba3-742f0a3f2b47",
       "namespace": "https://schema.ccmm.cz/research-data/1.0.0",
       "namespacePrefix": "ccmm"
     },
@@ -116,7 +116,7 @@
       ],
       "iri": "https://ofn.gov.cz/operation/1754410354171-020d-0fd1-9b97",
       "parent": "https://ofn.gov.cz/operation/1754378501284-2998-7cfc-ab72",
-      "dataPsmSchema": "269ef730-dd16-4bef-acaf-58fb3d250259",
+      "dataPsmSchema": "2c8fb58f-c452-40e6-bba3-742f0a3f2b47",
       "namespace": "https://schema.ccmm.cz/research-data/1.0",
       "namespacePrefix": "ccmm"
     },
@@ -127,17 +127,17 @@
       ],
       "iri": "https://ofn.gov.cz/operation/1763039647002-2978-5bdf-979e",
       "parent": "https://ofn.gov.cz/operation/1754410354171-020d-0fd1-9b97",
-      "dataPsmSchema": "269ef730-dd16-4bef-acaf-58fb3d250259",
+      "dataPsmSchema": "2c8fb58f-c452-40e6-bba3-742f0a3f2b47",
       "namespace": "https://schema.ccmm.cz/research-data/1.1",
       "namespacePrefix": "ccmm"
     }
   ],
   "resources": {
-    "269ef730-dd16-4bef-acaf-58fb3d250259": {
+    "2c8fb58f-c452-40e6-bba3-742f0a3f2b47": {
       "types": [
         "https://ofn.gov.cz/slovník/psm/Schema"
       ],
-      "iri": "269ef730-dd16-4bef-acaf-58fb3d250259",
+      "iri": "2c8fb58f-c452-40e6-bba3-742f0a3f2b47",
       "dataPsmHumanLabel": {
         "en": "Access rights",
         "cs": "Access rights"

@@ -33,7 +33,7 @@
       ],
       "iri": "https://ofn.gov.cz/operation/1743669664766-2f80-013c-8ece",
       "parent": "https://ofn.gov.cz/operation/1743669664725-86b4-6100-89a1",
-      "dataPsmResource": "282565c4-4d69-4dea-9432-9a2cdfcb15a4",
+      "dataPsmResource": "c502095d-9bd7-4f17-8375-45f8c73989b7",
       "dataPsmHumanLabel": {
         "cs": "Checksum",
         "en": "Checksum"
@@ -46,7 +46,7 @@
       ],
       "iri": "https://ofn.gov.cz/operation/1743669664793-cb4c-8d7e-853f",
       "parent": "https://ofn.gov.cz/operation/1743669664766-2f80-013c-8ece",
-      "dataPsmResource": "282565c4-4d69-4dea-9432-9a2cdfcb15a4",
+      "dataPsmResource": "c502095d-9bd7-4f17-8375-45f8c73989b7",
       "dataPsmHumanDescription": {
         "cs": "Datová struktura pro Checksum. A value that allows the contents of a file to be authenticated.",
         "en": "Data structure for Checksum. A value that allows the contents of a file to be authenticated."
@@ -107,7 +107,7 @@
       "iri": "https://ofn.gov.cz/operation/1750748759618-ed26-0511-a650",
       "parent": "https://ofn.gov.cz/operation/1743669669646-5073-c57b-bd33",
       "dataPsmNewIri": null,
-      "dataPsmSpecification": "7595b26f-8921-4cb9-9430-192c2fed4fb2",
+      "dataPsmSpecification": "90dafdb5-c455-43c1-b926-def34ca195bc",
       "dataPsmClass": "https://ofn.gov.cz/class/1750748737636-4a30-db6d-87b9"
     },
     {
@@ -136,7 +136,7 @@
       ],
       "iri": "https://ofn.gov.cz/operation/1753448134707-4415-7683-9679",
       "parent": "https://ofn.gov.cz/operation/1750748759658-9db7-f6a4-a925",
-      "dataPsmSchema": "282565c4-4d69-4dea-9432-9a2cdfcb15a4",
+      "dataPsmSchema": "c502095d-9bd7-4f17-8375-45f8c73989b7",
       "namespace": "https://schema.ccmm.cz/checksum",
       "namespacePrefix": "ccmm-checksum"
     },
@@ -147,7 +147,7 @@
       ],
       "iri": "https://ofn.gov.cz/operation/1754378342342-efd8-fd98-b09e",
       "parent": "https://ofn.gov.cz/operation/1753448134707-4415-7683-9679",
-      "dataPsmSchema": "282565c4-4d69-4dea-9432-9a2cdfcb15a4",
+      "dataPsmSchema": "c502095d-9bd7-4f17-8375-45f8c73989b7",
       "namespace": "https://schema.ccmm.cz/research-data/1.0.0",
       "namespacePrefix": "ccmm"
     },
@@ -158,7 +158,7 @@
       ],
       "iri": "https://ofn.gov.cz/operation/1754410082403-7425-d50d-bab3",
       "parent": "https://ofn.gov.cz/operation/1754378342342-efd8-fd98-b09e",
-      "dataPsmSchema": "282565c4-4d69-4dea-9432-9a2cdfcb15a4",
+      "dataPsmSchema": "c502095d-9bd7-4f17-8375-45f8c73989b7",
       "namespace": "https://schema.ccmm.cz/research-data/1.0",
       "namespacePrefix": "ccmm"
     },
@@ -169,7 +169,7 @@
       ],
       "iri": "https://ofn.gov.cz/operation/1754410082594-7ea5-53f4-a82f",
       "parent": "https://ofn.gov.cz/operation/1754410082403-7425-d50d-bab3",
-      "dataPsmEntity": "282565c4-4d69-4dea-9432-9a2cdfcb15a4",
+      "dataPsmEntity": "c502095d-9bd7-4f17-8375-45f8c73989b7",
       "jsonEnforceContext": "no"
     },
     {
@@ -179,17 +179,17 @@
       ],
       "iri": "https://ofn.gov.cz/operation/1763039504856-b2c2-b376-b07e",
       "parent": "https://ofn.gov.cz/operation/1754410082594-7ea5-53f4-a82f",
-      "dataPsmSchema": "282565c4-4d69-4dea-9432-9a2cdfcb15a4",
+      "dataPsmSchema": "c502095d-9bd7-4f17-8375-45f8c73989b7",
       "namespace": "https://schema.ccmm.cz/research-data/1.1",
       "namespacePrefix": "ccmm"
     }
   ],
   "resources": {
-    "282565c4-4d69-4dea-9432-9a2cdfcb15a4": {
+    "c502095d-9bd7-4f17-8375-45f8c73989b7": {
       "types": [
         "https://ofn.gov.cz/slovník/psm/Schema"
       ],
-      "iri": "282565c4-4d69-4dea-9432-9a2cdfcb15a4",
+      "iri": "c502095d-9bd7-4f17-8375-45f8c73989b7",
       "dataPsmHumanLabel": {
         "cs": "Checksum",
         "en": "Checksum"
@@ -261,7 +261,7 @@
         "https://ofn.gov.cz/slovník/psm/ClassReference"
       ],
       "iri": "https://ofn.gov.cz/class-reference/1750748759618-d9bf-e02c-8c4b",
-      "dataPsmSpecification": "7595b26f-8921-4cb9-9430-192c2fed4fb2",
+      "dataPsmSpecification": "90dafdb5-c455-43c1-b926-def34ca195bc",
       "dataPsmClass": "https://ofn.gov.cz/class/1750748737636-4a30-db6d-87b9"
     }
   }

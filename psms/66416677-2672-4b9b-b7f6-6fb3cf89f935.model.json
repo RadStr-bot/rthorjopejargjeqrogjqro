@@ -33,7 +33,7 @@
       ],
       "iri": "https://ofn.gov.cz/operation/1765909420945-966d-a9a9-afd2",
       "parent": "https://ofn.gov.cz/operation/1765909420922-8a23-f047-9ec0",
-      "dataPsmResource": "0f477e04-ab77-479a-ba9f-5d8ae8ffafbe",
+      "dataPsmResource": "1890b685-b4fb-496b-bd63-b5a29c27a969",
       "dataPsmHumanLabel": {
         "en": "Related resource",
         "cs": "Related resource"
@@ -46,7 +46,7 @@
       ],
       "iri": "https://ofn.gov.cz/operation/1765909420972-8fa0-dec5-a83d",
       "parent": "https://ofn.gov.cz/operation/1765909420945-966d-a9a9-afd2",
-      "dataPsmResource": "0f477e04-ab77-479a-ba9f-5d8ae8ffafbe",
+      "dataPsmResource": "1890b685-b4fb-496b-bd63-b5a29c27a969",
       "dataPsmHumanDescription": {
         "en": "Data structure for Related resource. Resource represents any resource, physical or digital, that is related to the described dataset. ",
         "cs": "Datová struktura pro Related resource. Resource represents any resource, physical or digital, that is related to the described dataset. "
@@ -282,7 +282,7 @@
       "iri": "https://ofn.gov.cz/operation/1765909467724-94b4-2a2d-b6dc",
       "parent": "https://ofn.gov.cz/operation/1765909463228-e159-f03e-9d5e",
       "dataPsmNewIri": null,
-      "dataPsmSpecification": "e4bb0f83-fd28-4b0b-8f74-6160a258796f",
+      "dataPsmSpecification": "abf3a8ab-9ba1-47ee-ba86-2f516d75142f",
       "dataPsmClass": "https://ofn.gov.cz/class/1742340169817-84a9-ded1-a656"
     },
     {
@@ -322,7 +322,7 @@
       "iri": "https://ofn.gov.cz/operation/1765909486483-6143-2b11-8db7",
       "parent": "https://ofn.gov.cz/operation/1765909476627-a070-84c9-afb6",
       "dataPsmNewIri": null,
-      "dataPsmSpecification": "f004e77b-b623-43f2-a560-aca1dcf8b661",
+      "dataPsmSpecification": "c2a4b478-85f0-4354-8f3d-31f0fa937380",
       "dataPsmClass": "https://ofn.gov.cz/class/1742340187136-c36a-9f4c-b745"
     },
     {
@@ -362,7 +362,7 @@
       "iri": "https://ofn.gov.cz/operation/1765909508687-182d-3cab-a61b",
       "parent": "https://ofn.gov.cz/operation/1765909493712-6125-c82e-94f2",
       "dataPsmNewIri": null,
-      "dataPsmSpecification": "edaeb96d-b03f-46fe-ba4e-b7065361fd5d",
+      "dataPsmSpecification": "a217483b-0703-4008-8ebb-e58c1cbf31b8",
       "dataPsmClass": "https://ofn.gov.cz/class/1742235557653-64a2-513a-97fe"
     },
     {
@@ -392,7 +392,7 @@
       "iri": "https://ofn.gov.cz/operation/1765909512822-5c64-985b-be83",
       "parent": "https://ofn.gov.cz/operation/1765909508749-fc7b-b533-97e9",
       "dataPsmNewIri": null,
-      "dataPsmSpecification": "7e9b053a-8194-4b1d-8eb1-0b9b8f6b11e4",
+      "dataPsmSpecification": "bbca8085-2731-4d51-8af7-20df65de1bfa",
       "dataPsmClass": "https://ofn.gov.cz/class/1762083331490-ea8b-4a3a-bd65"
     },
     {
@@ -432,7 +432,7 @@
       "iri": "https://ofn.gov.cz/operation/1765909525394-ea8f-a046-bc3c",
       "parent": "https://ofn.gov.cz/operation/1765909519771-738c-00ab-b89c",
       "dataPsmNewIri": null,
-      "dataPsmSpecification": "025aae80-178f-419f-8eac-a3281f3e4771",
+      "dataPsmSpecification": "bdec3190-1ee8-44ca-a3b7-a2522a761cb9",
       "dataPsmClass": "https://ofn.gov.cz/class/1747685065285-430a-9d52-9477"
     },
     {
@@ -472,7 +472,7 @@
       "iri": "https://ofn.gov.cz/operation/1765909538945-9ffe-9eba-a839",
       "parent": "https://ofn.gov.cz/operation/1765909532389-262f-a34b-9d58",
       "dataPsmNewIri": null,
-      "dataPsmSpecification": "adb6cc6f-b5c9-406c-9c32-18b898718ed8",
+      "dataPsmSpecification": "d1fea41c-b314-4730-886b-712b4daf9e16",
       "dataPsmClass": "https://ofn.gov.cz/class/1747685037448-1c9b-f7fc-b4be"
     },
     {
@@ -511,7 +511,7 @@
       ],
       "iri": "https://ofn.gov.cz/operation/1765909555097-90bf-d09c-a6ed",
       "parent": "https://ofn.gov.cz/operation/1765909546545-ae4d-b233-9896",
-      "dataPsmEntity": "0f477e04-ab77-479a-ba9f-5d8ae8ffafbe",
+      "dataPsmEntity": "1890b685-b4fb-496b-bd63-b5a29c27a969",
       "jsonEnforceContext": "no"
     },
     {
@@ -521,17 +521,17 @@
       ],
       "iri": "https://ofn.gov.cz/operation/1765909584009-4f1b-df57-92af",
       "parent": "https://ofn.gov.cz/operation/1765909555097-90bf-d09c-a6ed",
-      "dataPsmSchema": "0f477e04-ab77-479a-ba9f-5d8ae8ffafbe",
+      "dataPsmSchema": "1890b685-b4fb-496b-bd63-b5a29c27a969",
       "namespace": "https://schema.ccmm.cz/research-data/1.1",
       "namespacePrefix": "ccmm"
     }
   ],
   "resources": {
-    "0f477e04-ab77-479a-ba9f-5d8ae8ffafbe": {
+    "1890b685-b4fb-496b-bd63-b5a29c27a969": {
       "types": [
         "https://ofn.gov.cz/slovník/psm/Schema"
       ],
-      "iri": "0f477e04-ab77-479a-ba9f-5d8ae8ffafbe",
+      "iri": "1890b685-b4fb-496b-bd63-b5a29c27a969",
       "dataPsmHumanLabel": {
         "en": "Related resource",
         "cs": "Related resource"
@@ -696,7 +696,7 @@
         "https://ofn.gov.cz/slovník/psm/ClassReference"
       ],
       "iri": "https://ofn.gov.cz/class-reference/1765909467724-450f-f266-b3ee",
-      "dataPsmSpecification": "e4bb0f83-fd28-4b0b-8f74-6160a258796f",
+      "dataPsmSpecification": "abf3a8ab-9ba1-47ee-ba86-2f516d75142f",
       "dataPsmClass": "https://ofn.gov.cz/class/1742340169817-84a9-ded1-a656"
     },
     "https://ofn.gov.cz/class-reference/1765909486482-e0c2-f86a-ad32": {
@@ -704,7 +704,7 @@
         "https://ofn.gov.cz/slovník/psm/ClassReference"
       ],
       "iri": "https://ofn.gov.cz/class-reference/1765909486482-e0c2-f86a-ad32",
-      "dataPsmSpecification": "f004e77b-b623-43f2-a560-aca1dcf8b661",
+      "dataPsmSpecification": "c2a4b478-85f0-4354-8f3d-31f0fa937380",
       "dataPsmClass": "https://ofn.gov.cz/class/1742340187136-c36a-9f4c-b745"
     },
     "https://ofn.gov.cz/class-reference/1765909508687-7993-c317-8321": {
@@ -712,7 +712,7 @@
         "https://ofn.gov.cz/slovník/psm/ClassReference"
       ],
       "iri": "https://ofn.gov.cz/class-reference/1765909508687-7993-c317-8321",
-      "dataPsmSpecification": "edaeb96d-b03f-46fe-ba4e-b7065361fd5d",
+      "dataPsmSpecification": "a217483b-0703-4008-8ebb-e58c1cbf31b8",
       "dataPsmClass": "https://ofn.gov.cz/class/1742235557653-64a2-513a-97fe"
     },
     "https://ofn.gov.cz/class-reference/1765909512821-64c8-69c5-ac86": {
@@ -720,7 +720,7 @@
         "https://ofn.gov.cz/slovník/psm/ClassReference"
       ],
       "iri": "https://ofn.gov.cz/class-reference/1765909512821-64c8-69c5-ac86",
-      "dataPsmSpecification": "7e9b053a-8194-4b1d-8eb1-0b9b8f6b11e4",
+      "dataPsmSpecification": "bbca8085-2731-4d51-8af7-20df65de1bfa",
       "dataPsmClass": "https://ofn.gov.cz/class/1762083331490-ea8b-4a3a-bd65"
     },
     "https://ofn.gov.cz/class-reference/1765909525394-4340-b831-9b07": {
@@ -728,7 +728,7 @@
         "https://ofn.gov.cz/slovník/psm/ClassReference"
       ],
       "iri": "https://ofn.gov.cz/class-reference/1765909525394-4340-b831-9b07",
-      "dataPsmSpecification": "025aae80-178f-419f-8eac-a3281f3e4771",
+      "dataPsmSpecification": "bdec3190-1ee8-44ca-a3b7-a2522a761cb9",
       "dataPsmClass": "https://ofn.gov.cz/class/1747685065285-430a-9d52-9477"
     },
     "https://ofn.gov.cz/class-reference/1765909538945-7d67-cf96-a58f": {
@@ -736,7 +736,7 @@
         "https://ofn.gov.cz/slovník/psm/ClassReference"
       ],
       "iri": "https://ofn.gov.cz/class-reference/1765909538945-7d67-cf96-a58f",
-      "dataPsmSpecification": "adb6cc6f-b5c9-406c-9c32-18b898718ed8",
+      "dataPsmSpecification": "d1fea41c-b314-4730-886b-712b4daf9e16",
       "dataPsmClass": "https://ofn.gov.cz/class/1747685037448-1c9b-f7fc-b4be"
     }
   }

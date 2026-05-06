@@ -1,6 +1,6 @@
 {
   "type": "http://dataspecer.com/resources/local/semantic-model",
-  "modelId": "d54a372a-b13d-479f-b8d8-2ce4c9a06b25/fda4bd64-1634-45a4-a39e-ebaa365be8c9/vocabulary",
+  "modelId": "a4d3c7ac-3922-4820-bd41-3a8d7a33031d",
   "modelAlias": "DataCite",
   "baseIri": "https://model.ccmm.cz/vocabulary/datacite#",
   "entities": {

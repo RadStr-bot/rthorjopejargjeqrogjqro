@@ -33,7 +33,7 @@
       ],
       "iri": "https://ofn.gov.cz/operation/1762083254865-04cb-a0eb-8832",
       "parent": "https://ofn.gov.cz/operation/1762083254804-bba8-f17e-adbe",
-      "dataPsmResource": "efa9b3c8-f32c-49b3-8034-f37514f89cf9",
+      "dataPsmResource": "a4dab5f0-44fe-4384-8f4e-26e4a50ad124",
       "dataPsmHumanLabel": {
         "en": "Time representation",
         "cs": "Time representation"
@@ -46,7 +46,7 @@
       ],
       "iri": "https://ofn.gov.cz/operation/1762083254910-2d6f-5fe4-ad9b",
       "parent": "https://ofn.gov.cz/operation/1762083254865-04cb-a0eb-8832",
-      "dataPsmResource": "efa9b3c8-f32c-49b3-8034-f37514f89cf9",
+      "dataPsmResource": "a4dab5f0-44fe-4384-8f4e-26e4a50ad124",
       "dataPsmHumanDescription": {
         "en": "Data structure for Time representation. Representation of time reference as a temporal interval or instant on which something relevant to the resource has happened.",
         "cs": "Datová struktura pro Time representation. Representation of time reference as a temporal interval or instant on which something relevant to the resource has happened."
@@ -142,7 +142,7 @@
       "iri": "https://ofn.gov.cz/operation/1762083277277-3828-040b-940d",
       "parent": "https://ofn.gov.cz/operation/1762083269754-29c0-bb13-87df",
       "dataPsmNewIri": null,
-      "dataPsmSpecification": "705d6938-ccbf-437c-896a-25a16bdccb58",
+      "dataPsmSpecification": "38fa4eec-6948-418d-9ab3-22f1f7661689",
       "dataPsmClass": "https://ofn.gov.cz/class/1750713556573-db1c-483c-bcb7"
     },
     {
@@ -173,7 +173,7 @@
       "iri": "https://ofn.gov.cz/operation/1762083281413-10b2-e2dd-b48d",
       "parent": "https://ofn.gov.cz/operation/1762083277311-db59-9cc3-ae3e",
       "dataPsmNewIri": null,
-      "dataPsmSpecification": "6bd745af-c5eb-4b89-8679-248e67f53ab7",
+      "dataPsmSpecification": "7c48c331-af6e-431a-9c18-308efe72f1c5",
       "dataPsmClass": "https://ofn.gov.cz/class/1750713474658-dd87-9fe9-a4ab"
     },
     {
@@ -203,7 +203,7 @@
       ],
       "iri": "https://ofn.gov.cz/operation/1762083312141-e746-eb0a-9b06",
       "parent": "https://ofn.gov.cz/operation/1762083281460-edec-282c-9f33",
-      "dataPsmResource": "efa9b3c8-f32c-49b3-8034-f37514f89cf9",
+      "dataPsmResource": "a4dab5f0-44fe-4384-8f4e-26e4a50ad124",
       "dataPsmTechnicalLabel": "time_representation"
     },
     {
@@ -213,7 +213,7 @@
       ],
       "iri": "https://ofn.gov.cz/operation/1762083312254-c157-8c55-9428",
       "parent": "https://ofn.gov.cz/operation/1762083312141-e746-eb0a-9b06",
-      "dataPsmEntity": "efa9b3c8-f32c-49b3-8034-f37514f89cf9",
+      "dataPsmEntity": "a4dab5f0-44fe-4384-8f4e-26e4a50ad124",
       "jsonEnforceContext": "no"
     },
     {
@@ -223,7 +223,7 @@
       ],
       "iri": "https://ofn.gov.cz/operation/1762084012926-752a-000f-897f",
       "parent": "https://ofn.gov.cz/operation/1762083312254-c157-8c55-9428",
-      "dataPsmSchema": "efa9b3c8-f32c-49b3-8034-f37514f89cf9",
+      "dataPsmSchema": "a4dab5f0-44fe-4384-8f4e-26e4a50ad124",
       "namespace": "https://schema.ccmm.cz/research-data/1.0",
       "namespacePrefix": "ccmm"
     },
@@ -314,7 +314,7 @@
       "iri": "https://ofn.gov.cz/operation/1762084173609-8a82-3268-9575",
       "parent": "https://ofn.gov.cz/operation/1762084170251-0bc3-9bde-acf9",
       "dataPsmNewIri": null,
-      "dataPsmSpecification": "705d6938-ccbf-437c-896a-25a16bdccb58",
+      "dataPsmSpecification": "38fa4eec-6948-418d-9ab3-22f1f7661689",
       "dataPsmClass": "https://ofn.gov.cz/class/1750713556573-db1c-483c-bcb7"
     },
     {
@@ -354,7 +354,7 @@
       "iri": "https://ofn.gov.cz/operation/1762084179826-ea5f-d3a2-97fc",
       "parent": "https://ofn.gov.cz/operation/1762084173661-0230-6fc7-a376",
       "dataPsmNewIri": null,
-      "dataPsmSpecification": "6bd745af-c5eb-4b89-8679-248e67f53ab7",
+      "dataPsmSpecification": "7c48c331-af6e-431a-9c18-308efe72f1c5",
       "dataPsmClass": "https://ofn.gov.cz/class/1750713474658-dd87-9fe9-a4ab"
     },
     {
@@ -393,7 +393,7 @@
       ],
       "iri": "https://ofn.gov.cz/operation/1762084919954-1e50-1dba-8a0d",
       "parent": "https://ofn.gov.cz/operation/1762084179878-febf-2f53-a558",
-      "dataPsmResource": "efa9b3c8-f32c-49b3-8034-f37514f89cf9",
+      "dataPsmResource": "a4dab5f0-44fe-4384-8f4e-26e4a50ad124",
       "dataPsmTechnicalLabel": null
     },
     {
@@ -413,17 +413,17 @@
       ],
       "iri": "https://ofn.gov.cz/operation/1763039812419-b8b9-25f1-a6d2",
       "parent": "https://ofn.gov.cz/operation/1762088037950-0a01-04cb-9c83",
-      "dataPsmSchema": "efa9b3c8-f32c-49b3-8034-f37514f89cf9",
+      "dataPsmSchema": "a4dab5f0-44fe-4384-8f4e-26e4a50ad124",
       "namespace": "https://schema.ccmm.cz/research-data/1.1",
       "namespacePrefix": "ccmm"
     }
   ],
   "resources": {
-    "efa9b3c8-f32c-49b3-8034-f37514f89cf9": {
+    "a4dab5f0-44fe-4384-8f4e-26e4a50ad124": {
       "types": [
         "https://ofn.gov.cz/slovník/psm/Schema"
       ],
-      "iri": "efa9b3c8-f32c-49b3-8034-f37514f89cf9",
+      "iri": "a4dab5f0-44fe-4384-8f4e-26e4a50ad124",
       "dataPsmHumanLabel": {
         "en": "Time representation",
         "cs": "Time representation"
@@ -518,7 +518,7 @@
         "https://ofn.gov.cz/slovník/psm/ClassReference"
       ],
       "iri": "https://ofn.gov.cz/class-reference/1762083277277-1b2e-cf0c-b3bf",
-      "dataPsmSpecification": "705d6938-ccbf-437c-896a-25a16bdccb58",
+      "dataPsmSpecification": "38fa4eec-6948-418d-9ab3-22f1f7661689",
       "dataPsmClass": "https://ofn.gov.cz/class/1750713556573-db1c-483c-bcb7"
     },
     "https://ofn.gov.cz/class-reference/1762083281413-9c95-2213-a5ff": {
@@ -526,7 +526,7 @@
         "https://ofn.gov.cz/slovník/psm/ClassReference"
       ],
       "iri": "https://ofn.gov.cz/class-reference/1762083281413-9c95-2213-a5ff",
-      "dataPsmSpecification": "6bd745af-c5eb-4b89-8679-248e67f53ab7",
+      "dataPsmSpecification": "7c48c331-af6e-431a-9c18-308efe72f1c5",
       "dataPsmClass": "https://ofn.gov.cz/class/1750713474658-dd87-9fe9-a4ab"
     },
     "https://ofn.gov.cz/class-reference/1762084173609-8a7f-5df7-a937": {
@@ -534,7 +534,7 @@
         "https://ofn.gov.cz/slovník/psm/ClassReference"
       ],
       "iri": "https://ofn.gov.cz/class-reference/1762084173609-8a7f-5df7-a937",
-      "dataPsmSpecification": "705d6938-ccbf-437c-896a-25a16bdccb58",
+      "dataPsmSpecification": "38fa4eec-6948-418d-9ab3-22f1f7661689",
       "dataPsmClass": "https://ofn.gov.cz/class/1750713556573-db1c-483c-bcb7"
     },
     "https://ofn.gov.cz/class-reference/1762084179826-c81a-fe45-8553": {
@@ -542,7 +542,7 @@
         "https://ofn.gov.cz/slovník/psm/ClassReference"
       ],
       "iri": "https://ofn.gov.cz/class-reference/1762084179826-c81a-fe45-8553",
-      "dataPsmSpecification": "6bd745af-c5eb-4b89-8679-248e67f53ab7",
+      "dataPsmSpecification": "7c48c331-af6e-431a-9c18-308efe72f1c5",
       "dataPsmClass": "https://ofn.gov.cz/class/1750713474658-dd87-9fe9-a4ab"
     }
   }

@@ -33,7 +33,7 @@
       ],
       "iri": "https://ofn.gov.cz/operation/1742340936520-9077-d325-973a",
       "parent": "https://ofn.gov.cz/operation/1742340936494-529a-b707-9e02",
-      "dataPsmResource": "fe716aa9-f14d-44d6-bcf2-f0a1065db9db",
+      "dataPsmResource": "97c5f39a-858e-40d7-a28f-78a30fcc2fc5",
       "dataPsmHumanLabel": {
         "cs": "Geometry",
         "en": "Geometry"
@@ -46,7 +46,7 @@
       ],
       "iri": "https://ofn.gov.cz/operation/1742340936548-84eb-7bd2-8d35",
       "parent": "https://ofn.gov.cz/operation/1742340936520-9077-d325-973a",
-      "dataPsmResource": "fe716aa9-f14d-44d6-bcf2-f0a1065db9db",
+      "dataPsmResource": "97c5f39a-858e-40d7-a28f-78a30fcc2fc5",
       "dataPsmHumanDescription": {
         "cs": "Datová struktura pro Geometry. The Geometry class provides the means to identify a location as a point, line, polygon, etc. expressed using coordinates in some coordinate reference system.",
         "en": "Data structure for Geometry. The Geometry class provides the means to identify a location as a point, line, polygon, etc. expressed using coordinates in some coordinate reference system."
@@ -104,7 +104,7 @@
       ],
       "iri": "https://ofn.gov.cz/operation/1753447966512-75a4-20f5-85b0",
       "parent": "https://ofn.gov.cz/operation/1750754717078-b018-d9ba-9fa2",
-      "dataPsmSchema": "fe716aa9-f14d-44d6-bcf2-f0a1065db9db",
+      "dataPsmSchema": "97c5f39a-858e-40d7-a28f-78a30fcc2fc5",
       "namespace": "https://schema.ccmm.cz/geometry",
       "namespacePrefix": "ccmm-geometry"
     },
@@ -115,7 +115,7 @@
       ],
       "iri": "https://ofn.gov.cz/operation/1753447966547-136d-03d9-b36a",
       "parent": "https://ofn.gov.cz/operation/1753447966512-75a4-20f5-85b0",
-      "dataPsmEntity": "fe716aa9-f14d-44d6-bcf2-f0a1065db9db",
+      "dataPsmEntity": "97c5f39a-858e-40d7-a28f-78a30fcc2fc5",
       "jsonEnforceContext": "no"
     },
     {
@@ -145,7 +145,7 @@
       ],
       "iri": "https://ofn.gov.cz/operation/1754378285957-577c-5229-8e8f",
       "parent": "https://ofn.gov.cz/operation/1753866959327-c7a5-ff80-8d7e",
-      "dataPsmSchema": "fe716aa9-f14d-44d6-bcf2-f0a1065db9db",
+      "dataPsmSchema": "97c5f39a-858e-40d7-a28f-78a30fcc2fc5",
       "namespace": "https://schema.ccmm.cz/research-data/1.0.0",
       "namespacePrefix": "ccmm"
     },
@@ -156,7 +156,7 @@
       ],
       "iri": "https://ofn.gov.cz/operation/1754408049972-55fa-0f29-b555",
       "parent": "https://ofn.gov.cz/operation/1754378285957-577c-5229-8e8f",
-      "dataPsmSchema": "fe716aa9-f14d-44d6-bcf2-f0a1065db9db",
+      "dataPsmSchema": "97c5f39a-858e-40d7-a28f-78a30fcc2fc5",
       "namespace": "https://schema.ccmm.cz/research-data/1.0",
       "namespacePrefix": "ccmm"
     },
@@ -167,17 +167,17 @@
       ],
       "iri": "https://ofn.gov.cz/operation/1763039439924-b35c-92a1-8ec4",
       "parent": "https://ofn.gov.cz/operation/1754408049972-55fa-0f29-b555",
-      "dataPsmSchema": "fe716aa9-f14d-44d6-bcf2-f0a1065db9db",
+      "dataPsmSchema": "97c5f39a-858e-40d7-a28f-78a30fcc2fc5",
       "namespace": "https://schema.ccmm.cz/research-data/1.1",
       "namespacePrefix": "ccmm"
     }
   ],
   "resources": {
-    "fe716aa9-f14d-44d6-bcf2-f0a1065db9db": {
+    "97c5f39a-858e-40d7-a28f-78a30fcc2fc5": {
       "types": [
         "https://ofn.gov.cz/slovník/psm/Schema"
       ],
-      "iri": "fe716aa9-f14d-44d6-bcf2-f0a1065db9db",
+      "iri": "97c5f39a-858e-40d7-a28f-78a30fcc2fc5",
       "dataPsmHumanLabel": {
         "cs": "Geometry",
         "en": "Geometry"

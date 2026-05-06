@@ -33,7 +33,7 @@
       ],
       "iri": "https://ofn.gov.cz/operation/1747684797513-5710-81a0-b61d",
       "parent": "https://ofn.gov.cz/operation/1747684797481-b8d1-4eeb-9be2",
-      "dataPsmResource": "536262be-2e24-4acb-a4c5-78bd2d237257",
+      "dataPsmResource": "0ff4c05b-b6fc-4666-9441-f188c87b5035",
       "dataPsmHumanLabel": {
         "en": "Date type",
         "cs": "Date type"
@@ -46,7 +46,7 @@
       ],
       "iri": "https://ofn.gov.cz/operation/1747684797542-2a87-2e50-bd43",
       "parent": "https://ofn.gov.cz/operation/1747684797513-5710-81a0-b61d",
-      "dataPsmResource": "536262be-2e24-4acb-a4c5-78bd2d237257",
+      "dataPsmResource": "0ff4c05b-b6fc-4666-9441-f188c87b5035",
       "dataPsmHumanDescription": {
         "en": "Data structure for Date type. Type of a date in relation to the resource.",
         "cs": "Datová struktura pro Date type. Type of a date in relation to the resource."
@@ -84,7 +84,7 @@
       ],
       "iri": "https://ofn.gov.cz/operation/1753448208113-913e-9dba-bcbe",
       "parent": "https://ofn.gov.cz/operation/1750770455872-6b9b-cbfb-a27f",
-      "dataPsmSchema": "536262be-2e24-4acb-a4c5-78bd2d237257",
+      "dataPsmSchema": "0ff4c05b-b6fc-4666-9441-f188c87b5035",
       "namespace": "https://schema.ccmm.cz/date-type",
       "namespacePrefix": "ccmm-date-type"
     },
@@ -95,7 +95,7 @@
       ],
       "iri": "https://ofn.gov.cz/operation/1754378392661-a463-ac70-a807",
       "parent": "https://ofn.gov.cz/operation/1753448208113-913e-9dba-bcbe",
-      "dataPsmSchema": "536262be-2e24-4acb-a4c5-78bd2d237257",
+      "dataPsmSchema": "0ff4c05b-b6fc-4666-9441-f188c87b5035",
       "namespace": "https://schema.ccmm.cz/research-data/1.0.0",
       "namespacePrefix": "ccmm"
     },
@@ -106,7 +106,7 @@
       ],
       "iri": "https://ofn.gov.cz/operation/1754408173127-3c97-1fa8-b810",
       "parent": "https://ofn.gov.cz/operation/1754378392661-a463-ac70-a807",
-      "dataPsmSchema": "536262be-2e24-4acb-a4c5-78bd2d237257",
+      "dataPsmSchema": "0ff4c05b-b6fc-4666-9441-f188c87b5035",
       "namespace": "https://schema.ccmm.cz/research-data/1.0",
       "namespacePrefix": "ccmm"
     },
@@ -117,7 +117,7 @@
       ],
       "iri": "https://ofn.gov.cz/operation/1754408173302-ccf1-498f-af7b",
       "parent": "https://ofn.gov.cz/operation/1754408173127-3c97-1fa8-b810",
-      "dataPsmEntity": "536262be-2e24-4acb-a4c5-78bd2d237257",
+      "dataPsmEntity": "0ff4c05b-b6fc-4666-9441-f188c87b5035",
       "jsonEnforceContext": "no"
     },
     {
@@ -127,17 +127,17 @@
       ],
       "iri": "https://ofn.gov.cz/operation/1763039546575-91dc-cdaf-8328",
       "parent": "https://ofn.gov.cz/operation/1754408173302-ccf1-498f-af7b",
-      "dataPsmSchema": "536262be-2e24-4acb-a4c5-78bd2d237257",
+      "dataPsmSchema": "0ff4c05b-b6fc-4666-9441-f188c87b5035",
       "namespace": "https://schema.ccmm.cz/research-data/1.1",
       "namespacePrefix": "ccmm"
     }
   ],
   "resources": {
-    "536262be-2e24-4acb-a4c5-78bd2d237257": {
+    "0ff4c05b-b6fc-4666-9441-f188c87b5035": {
       "types": [
         "https://ofn.gov.cz/slovník/psm/Schema"
       ],
-      "iri": "536262be-2e24-4acb-a4c5-78bd2d237257",
+      "iri": "0ff4c05b-b6fc-4666-9441-f188c87b5035",
       "dataPsmHumanLabel": {
         "en": "Date type",
         "cs": "Date type"

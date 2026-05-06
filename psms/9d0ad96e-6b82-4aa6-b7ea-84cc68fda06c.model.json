@@ -33,7 +33,7 @@
       ],
       "iri": "https://ofn.gov.cz/operation/1750748737703-d6c4-5220-a482",
       "parent": "https://ofn.gov.cz/operation/1750748737667-5aad-8f07-84d9",
-      "dataPsmResource": "7595b26f-8921-4cb9-9430-192c2fed4fb2",
+      "dataPsmResource": "90dafdb5-c455-43c1-b926-def34ca195bc",
       "dataPsmHumanLabel": {
         "en": "Checksum algorithm",
         "cs": "Checksum algorithm"
@@ -46,7 +46,7 @@
       ],
       "iri": "https://ofn.gov.cz/operation/1750748737733-b3f1-1b2c-8ab9",
       "parent": "https://ofn.gov.cz/operation/1750748737703-d6c4-5220-a482",
-      "dataPsmResource": "7595b26f-8921-4cb9-9430-192c2fed4fb2",
+      "dataPsmResource": "90dafdb5-c455-43c1-b926-def34ca195bc",
       "dataPsmHumanDescription": {
         "en": "Data structure for Checksum algorithm. Algorithm used for Checksums.",
         "cs": "Datová struktura pro Checksum algorithm. Algorithm used for Checksums."
@@ -69,7 +69,7 @@
       ],
       "iri": "https://ofn.gov.cz/operation/1754378600492-d172-8fc5-a548",
       "parent": "https://ofn.gov.cz/operation/1750770636210-8562-374c-8c0f",
-      "dataPsmSchema": "7595b26f-8921-4cb9-9430-192c2fed4fb2",
+      "dataPsmSchema": "90dafdb5-c455-43c1-b926-def34ca195bc",
       "namespace": "https://schema.ccmm.cz/research-data/1.0.0",
       "namespacePrefix": "ccmm"
     },
@@ -80,7 +80,7 @@
       ],
       "iri": "https://ofn.gov.cz/operation/1754378600571-f1c3-f448-97ab",
       "parent": "https://ofn.gov.cz/operation/1754378600492-d172-8fc5-a548",
-      "dataPsmEntity": "7595b26f-8921-4cb9-9430-192c2fed4fb2",
+      "dataPsmEntity": "90dafdb5-c455-43c1-b926-def34ca195bc",
       "jsonEnforceContext": "no"
     },
     {
@@ -90,7 +90,7 @@
       ],
       "iri": "https://ofn.gov.cz/operation/1754408357612-a6fb-4552-a0f9",
       "parent": "https://ofn.gov.cz/operation/1754378600571-f1c3-f448-97ab",
-      "dataPsmSchema": "7595b26f-8921-4cb9-9430-192c2fed4fb2",
+      "dataPsmSchema": "90dafdb5-c455-43c1-b926-def34ca195bc",
       "namespace": "https://schema.ccmm.cz/research-data/1.0",
       "namespacePrefix": "ccmm"
     },
@@ -116,17 +116,17 @@
       ],
       "iri": "https://ofn.gov.cz/operation/1763039732164-71bb-c8df-bfb7",
       "parent": "https://ofn.gov.cz/operation/1762086480397-dfd1-9946-b90b",
-      "dataPsmSchema": "7595b26f-8921-4cb9-9430-192c2fed4fb2",
+      "dataPsmSchema": "90dafdb5-c455-43c1-b926-def34ca195bc",
       "namespace": "https://schema.ccmm.cz/research-data/1.1",
       "namespacePrefix": "ccmm"
     }
   ],
   "resources": {
-    "7595b26f-8921-4cb9-9430-192c2fed4fb2": {
+    "90dafdb5-c455-43c1-b926-def34ca195bc": {
       "types": [
         "https://ofn.gov.cz/slovník/psm/Schema"
       ],
-      "iri": "7595b26f-8921-4cb9-9430-192c2fed4fb2",
+      "iri": "90dafdb5-c455-43c1-b926-def34ca195bc",
       "dataPsmHumanLabel": {
         "en": "Checksum algorithm",
         "cs": "Checksum algorithm"

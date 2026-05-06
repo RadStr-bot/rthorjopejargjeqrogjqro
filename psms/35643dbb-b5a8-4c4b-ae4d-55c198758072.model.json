@@ -33,7 +33,7 @@
       ],
       "iri": "https://ofn.gov.cz/operation/1742235803859-356e-48ca-b6cd",
       "parent": "https://ofn.gov.cz/operation/1742235803829-8c68-a761-8c23",
-      "dataPsmResource": "c6aa0a4b-e116-4247-9c26-bb59ad90cb83",
+      "dataPsmResource": "179d4cc2-1a5d-453c-986f-1e023be05d44",
       "dataPsmHumanLabel": {
         "cs": "Application profile",
         "en": "Application profile"
@@ -46,7 +46,7 @@
       ],
       "iri": "https://ofn.gov.cz/operation/1742235803886-a2e4-acf6-a28a",
       "parent": "https://ofn.gov.cz/operation/1742235803859-356e-48ca-b6cd",
-      "dataPsmResource": "c6aa0a4b-e116-4247-9c26-bb59ad90cb83",
+      "dataPsmResource": "179d4cc2-1a5d-453c-986f-1e023be05d44",
       "dataPsmHumanDescription": {
         "cs": "Datová struktura pro Application profile. A standard or other specification to which a metadata record conforms.",
         "en": "Data structure for Application profile. A standard or other specification to which a metadata record conforms."
@@ -84,7 +84,7 @@
       ],
       "iri": "https://ofn.gov.cz/operation/1753446140795-3a6c-6f6a-99f2",
       "parent": "https://ofn.gov.cz/operation/1750770139165-a2d2-1f9b-b410",
-      "dataPsmSchema": "c6aa0a4b-e116-4247-9c26-bb59ad90cb83",
+      "dataPsmSchema": "179d4cc2-1a5d-453c-986f-1e023be05d44",
       "namespace": "https://schema.ccmm.cz/application-profile",
       "namespacePrefix": "ccmm-ap"
     },
@@ -95,7 +95,7 @@
       ],
       "iri": "https://ofn.gov.cz/operation/1753446140828-53f5-fc1e-ae4e",
       "parent": "https://ofn.gov.cz/operation/1753446140795-3a6c-6f6a-99f2",
-      "dataPsmEntity": "c6aa0a4b-e116-4247-9c26-bb59ad90cb83",
+      "dataPsmEntity": "179d4cc2-1a5d-453c-986f-1e023be05d44",
       "jsonEnforceContext": "no"
     },
     {
@@ -105,7 +105,7 @@
       ],
       "iri": "https://ofn.gov.cz/operation/1754378002163-be43-5f31-bd33",
       "parent": "https://ofn.gov.cz/operation/1753446140828-53f5-fc1e-ae4e",
-      "dataPsmSchema": "c6aa0a4b-e116-4247-9c26-bb59ad90cb83",
+      "dataPsmSchema": "179d4cc2-1a5d-453c-986f-1e023be05d44",
       "namespace": "https://schema.ccmm.cz/research-data/1.0.0",
       "namespacePrefix": "ccmm"
     },
@@ -116,7 +116,7 @@
       ],
       "iri": "https://ofn.gov.cz/operation/1754407807165-3fe4-b36d-8be8",
       "parent": "https://ofn.gov.cz/operation/1754378002163-be43-5f31-bd33",
-      "dataPsmSchema": "c6aa0a4b-e116-4247-9c26-bb59ad90cb83",
+      "dataPsmSchema": "179d4cc2-1a5d-453c-986f-1e023be05d44",
       "namespace": "https://schema.ccmm.cz/research-data/1.0",
       "namespacePrefix": "ccmm"
     },
@@ -127,17 +127,17 @@
       ],
       "iri": "https://ofn.gov.cz/operation/1763039266656-6370-e72d-bce8",
       "parent": "https://ofn.gov.cz/operation/1754407807165-3fe4-b36d-8be8",
-      "dataPsmSchema": "c6aa0a4b-e116-4247-9c26-bb59ad90cb83",
+      "dataPsmSchema": "179d4cc2-1a5d-453c-986f-1e023be05d44",
       "namespace": "https://schema.ccmm.cz/research-data/1.1",
       "namespacePrefix": "ccmm"
     }
   ],
   "resources": {
-    "c6aa0a4b-e116-4247-9c26-bb59ad90cb83": {
+    "179d4cc2-1a5d-453c-986f-1e023be05d44": {
       "types": [
         "https://ofn.gov.cz/slovník/psm/Schema"
       ],
-      "iri": "c6aa0a4b-e116-4247-9c26-bb59ad90cb83",
+      "iri": "179d4cc2-1a5d-453c-986f-1e023be05d44",
       "dataPsmHumanLabel": {
         "cs": "Application profile",
         "en": "Application profile"

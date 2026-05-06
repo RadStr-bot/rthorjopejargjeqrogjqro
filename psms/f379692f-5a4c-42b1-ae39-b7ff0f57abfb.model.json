@@ -33,7 +33,7 @@
       ],
       "iri": "https://ofn.gov.cz/operation/1742288744121-ba32-616e-aff4",
       "parent": "https://ofn.gov.cz/operation/1742288744088-a79f-6c56-ae1a",
-      "dataPsmResource": "3e8b2ebc-9186-46f0-9dc3-21a4ef344027",
+      "dataPsmResource": "ce0ba35a-e7a8-4936-bec3-5b6dc6e3644d",
       "dataPsmHumanLabel": {
         "cs": "Address",
         "en": "Address"
@@ -46,7 +46,7 @@
       ],
       "iri": "https://ofn.gov.cz/operation/1742288744149-02b6-bc16-8e37",
       "parent": "https://ofn.gov.cz/operation/1742288744121-ba32-616e-aff4",
-      "dataPsmResource": "3e8b2ebc-9186-46f0-9dc3-21a4ef344027",
+      "dataPsmResource": "ce0ba35a-e7a8-4936-bec3-5b6dc6e3644d",
       "dataPsmHumanDescription": {
         "cs": "Datová struktura pro Address. An \"address representation\" as conceptually defined by the INSPIRE Address Representation data type. The locn:addressId property may be used to link this locn:Address to other representations.",
         "en": "Data structure for Address. An \"address representation\" as conceptually defined by the INSPIRE Address Representation data type. The locn:addressId property may be used to link this locn:Address to other representations."
@@ -249,7 +249,7 @@
       ],
       "iri": "https://ofn.gov.cz/operation/1753447614848-ee78-ffea-8e74",
       "parent": "https://ofn.gov.cz/operation/1747639476098-3d1d-d3c9-9414",
-      "dataPsmSchema": "3e8b2ebc-9186-46f0-9dc3-21a4ef344027",
+      "dataPsmSchema": "ce0ba35a-e7a8-4936-bec3-5b6dc6e3644d",
       "namespace": "https://schema.ccmm.cz/address",
       "namespacePrefix": "ccmm-address"
     },
@@ -260,7 +260,7 @@
       ],
       "iri": "https://ofn.gov.cz/operation/1754378121425-4585-33e7-a02b",
       "parent": "https://ofn.gov.cz/operation/1753447614848-ee78-ffea-8e74",
-      "dataPsmSchema": "3e8b2ebc-9186-46f0-9dc3-21a4ef344027",
+      "dataPsmSchema": "ce0ba35a-e7a8-4936-bec3-5b6dc6e3644d",
       "namespace": "https://schema.ccmm.cz/research-data/1.0.0",
       "namespacePrefix": "ccmm"
     },
@@ -271,7 +271,7 @@
       ],
       "iri": "https://ofn.gov.cz/operation/1754407868291-785f-d0bc-a6c2",
       "parent": "https://ofn.gov.cz/operation/1754378121425-4585-33e7-a02b",
-      "dataPsmSchema": "3e8b2ebc-9186-46f0-9dc3-21a4ef344027",
+      "dataPsmSchema": "ce0ba35a-e7a8-4936-bec3-5b6dc6e3644d",
       "namespace": "https://schema.ccmm.cz/research-data/1.0",
       "namespacePrefix": "ccmm"
     },
@@ -282,7 +282,7 @@
       ],
       "iri": "https://ofn.gov.cz/operation/1754407868551-0d93-a723-827f",
       "parent": "https://ofn.gov.cz/operation/1754407868291-785f-d0bc-a6c2",
-      "dataPsmEntity": "3e8b2ebc-9186-46f0-9dc3-21a4ef344027",
+      "dataPsmEntity": "ce0ba35a-e7a8-4936-bec3-5b6dc6e3644d",
       "jsonEnforceContext": "no"
     },
     {
@@ -292,17 +292,17 @@
       ],
       "iri": "https://ofn.gov.cz/operation/1763039331433-08b9-0ac9-9a8a",
       "parent": "https://ofn.gov.cz/operation/1754407868551-0d93-a723-827f",
-      "dataPsmSchema": "3e8b2ebc-9186-46f0-9dc3-21a4ef344027",
+      "dataPsmSchema": "ce0ba35a-e7a8-4936-bec3-5b6dc6e3644d",
       "namespace": "https://schema.ccmm.cz/research-data/1.1",
       "namespacePrefix": "ccmm"
     }
   ],
   "resources": {
-    "3e8b2ebc-9186-46f0-9dc3-21a4ef344027": {
+    "ce0ba35a-e7a8-4936-bec3-5b6dc6e3644d": {
       "types": [
         "https://ofn.gov.cz/slovník/psm/Schema"
       ],
-      "iri": "3e8b2ebc-9186-46f0-9dc3-21a4ef344027",
+      "iri": "ce0ba35a-e7a8-4936-bec3-5b6dc6e3644d",
       "dataPsmHumanLabel": {
         "cs": "Address",
         "en": "Address"

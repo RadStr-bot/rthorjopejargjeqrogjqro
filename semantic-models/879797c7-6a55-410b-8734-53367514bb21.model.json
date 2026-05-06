@@ -1,6 +1,6 @@
 {
   "type": "http://dataspecer.com/resources/local/semantic-model",
-  "modelId": "6b12e77a-aa55-4287-9040-782a3a77caab",
+  "modelId": "ef8ca11b-8b6f-4146-8a4e-de1fd39b9c99",
   "modelAlias": "Czech Core Metadata Model",
   "baseIri": "https://model.ccmm.cz/research-data/",
   "entities": {

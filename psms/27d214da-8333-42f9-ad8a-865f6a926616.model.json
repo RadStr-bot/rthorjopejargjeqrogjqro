@@ -33,7 +33,7 @@
       ],
       "iri": "https://ofn.gov.cz/operation/1742339809826-4f8f-22d7-a3c7",
       "parent": "https://ofn.gov.cz/operation/1742339809791-7628-bf88-9099",
-      "dataPsmResource": "faa381aa-72a5-4318-a36c-dceb209db7ea",
+      "dataPsmResource": "37fd33b6-cc23-421c-ad88-dd0a7a519185",
       "dataPsmHumanLabel": {
         "cs": "Katalog",
         "en": "Repository"
@@ -46,7 +46,7 @@
       ],
       "iri": "https://ofn.gov.cz/operation/1742339809854-8f4a-3370-b8c1",
       "parent": "https://ofn.gov.cz/operation/1742339809826-4f8f-22d7-a3c7",
-      "dataPsmResource": "faa381aa-72a5-4318-a36c-dceb209db7ea",
+      "dataPsmResource": "37fd33b6-cc23-421c-ad88-dd0a7a519185",
       "dataPsmHumanDescription": {
         "cs": "Datová struktura pro Katalog. Řízená kolekce metadat o datových sadách a datových službách",
         "en": "Data structure for Repository. A curated collection of metadata about resources."
@@ -84,7 +84,7 @@
       ],
       "iri": "https://ofn.gov.cz/operation/1753447885632-0a18-3127-8ae8",
       "parent": "https://ofn.gov.cz/operation/1750770094475-41cf-96af-b9a8",
-      "dataPsmSchema": "faa381aa-72a5-4318-a36c-dceb209db7ea",
+      "dataPsmSchema": "37fd33b6-cc23-421c-ad88-dd0a7a519185",
       "namespace": "https://schema.ccmm.cz/repository",
       "namespacePrefix": "ccmm-repository"
     },
@@ -95,7 +95,7 @@
       ],
       "iri": "https://ofn.gov.cz/operation/1754378192003-5dd7-dd98-a5c6",
       "parent": "https://ofn.gov.cz/operation/1753447885632-0a18-3127-8ae8",
-      "dataPsmSchema": "faa381aa-72a5-4318-a36c-dceb209db7ea",
+      "dataPsmSchema": "37fd33b6-cc23-421c-ad88-dd0a7a519185",
       "namespace": "https://schema.ccmm.cz/research-data/1.0.0",
       "namespacePrefix": "ccmm"
     },
@@ -106,7 +106,7 @@
       ],
       "iri": "https://ofn.gov.cz/operation/1754407999710-3862-2c6a-991f",
       "parent": "https://ofn.gov.cz/operation/1754378192003-5dd7-dd98-a5c6",
-      "dataPsmSchema": "faa381aa-72a5-4318-a36c-dceb209db7ea",
+      "dataPsmSchema": "37fd33b6-cc23-421c-ad88-dd0a7a519185",
       "namespace": "https://schema.ccmm.cz/research-data/1.0",
       "namespacePrefix": "ccmm"
     },
@@ -117,17 +117,17 @@
       ],
       "iri": "https://ofn.gov.cz/operation/1763039391856-3613-c59a-9412",
       "parent": "https://ofn.gov.cz/operation/1754407999710-3862-2c6a-991f",
-      "dataPsmSchema": "faa381aa-72a5-4318-a36c-dceb209db7ea",
+      "dataPsmSchema": "37fd33b6-cc23-421c-ad88-dd0a7a519185",
       "namespace": "https://schema.ccmm.cz/research-data/1.1",
       "namespacePrefix": "ccmm"
     }
   ],
   "resources": {
-    "faa381aa-72a5-4318-a36c-dceb209db7ea": {
+    "37fd33b6-cc23-421c-ad88-dd0a7a519185": {
       "types": [
         "https://ofn.gov.cz/slovník/psm/Schema"
       ],
-      "iri": "faa381aa-72a5-4318-a36c-dceb209db7ea",
+      "iri": "37fd33b6-cc23-421c-ad88-dd0a7a519185",
       "dataPsmHumanLabel": {
         "cs": "Katalog",
         "en": "Repository"

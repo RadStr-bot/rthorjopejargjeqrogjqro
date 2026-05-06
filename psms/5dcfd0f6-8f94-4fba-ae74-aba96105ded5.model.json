@@ -33,7 +33,7 @@
       ],
       "iri": "https://ofn.gov.cz/operation/1750713474734-99fc-188d-885b",
       "parent": "https://ofn.gov.cz/operation/1750713474690-6040-6b27-922c",
-      "dataPsmResource": "6bd745af-c5eb-4b89-8679-248e67f53ab7",
+      "dataPsmResource": "7c48c331-af6e-431a-9c18-308efe72f1c5",
       "dataPsmHumanLabel": {
         "en": "Time instant",
         "cs": "Time instant"
@@ -46,7 +46,7 @@
       ],
       "iri": "https://ofn.gov.cz/operation/1750713474762-a244-cd9f-8355",
       "parent": "https://ofn.gov.cz/operation/1750713474734-99fc-188d-885b",
-      "dataPsmResource": "6bd745af-c5eb-4b89-8679-248e67f53ab7",
+      "dataPsmResource": "7c48c331-af6e-431a-9c18-308efe72f1c5",
       "dataPsmHumanDescription": {
         "en": "Data structure for Time instant. A temporal entity with zero extent or duration.",
         "cs": "Datová struktura pro Time instant. A temporal entity with zero extent or duration."
@@ -152,7 +152,7 @@
       "iri": "https://ofn.gov.cz/operation/1750713608073-0026-4990-b41d",
       "parent": "https://ofn.gov.cz/operation/1750713528268-5b82-d139-bc6b",
       "dataPsmNewIri": null,
-      "dataPsmSpecification": "536262be-2e24-4acb-a4c5-78bd2d237257",
+      "dataPsmSpecification": "0ff4c05b-b6fc-4666-9441-f188c87b5035",
       "dataPsmClass": "https://ofn.gov.cz/class/1747684797448-9d6c-a945-a0af"
     },
     {
@@ -173,7 +173,7 @@
       "iri": "https://ofn.gov.cz/operation/1750713614695-1129-29e2-8933",
       "parent": "https://ofn.gov.cz/operation/1750713608073-6487-56c0-bacb",
       "dataPsmNewIri": null,
-      "dataPsmSpecification": "536262be-2e24-4acb-a4c5-78bd2d237257",
+      "dataPsmSpecification": "0ff4c05b-b6fc-4666-9441-f188c87b5035",
       "dataPsmClass": "https://ofn.gov.cz/class/1747684797448-9d6c-a945-a0af"
     },
     {
@@ -569,7 +569,7 @@
       ],
       "iri": "https://ofn.gov.cz/operation/1753449210939-5e2d-d7c1-881c",
       "parent": "https://ofn.gov.cz/operation/1750760904569-1f7c-b1c4-9c4a",
-      "dataPsmSchema": "6bd745af-c5eb-4b89-8679-248e67f53ab7",
+      "dataPsmSchema": "7c48c331-af6e-431a-9c18-308efe72f1c5",
       "namespace": "https://schema.ccmm.cz/time-instant",
       "namespacePrefix": "ccmm-time-instant"
     },
@@ -580,7 +580,7 @@
       ],
       "iri": "https://ofn.gov.cz/operation/1753449210981-9988-21db-b28a",
       "parent": "https://ofn.gov.cz/operation/1753449210939-5e2d-d7c1-881c",
-      "dataPsmEntity": "6bd745af-c5eb-4b89-8679-248e67f53ab7",
+      "dataPsmEntity": "7c48c331-af6e-431a-9c18-308efe72f1c5",
       "jsonEnforceContext": "no"
     },
     {
@@ -675,7 +675,7 @@
       ],
       "iri": "https://ofn.gov.cz/operation/1754378559089-a3b2-11f0-a70b",
       "parent": "https://ofn.gov.cz/operation/1753950904970-aa32-a7c4-9b5a",
-      "dataPsmSchema": "6bd745af-c5eb-4b89-8679-248e67f53ab7",
+      "dataPsmSchema": "7c48c331-af6e-431a-9c18-308efe72f1c5",
       "namespace": "https://schema.ccmm.cz/research-data/1.0.0",
       "namespacePrefix": "ccmm"
     },
@@ -686,7 +686,7 @@
       ],
       "iri": "https://ofn.gov.cz/operation/1754409643116-7fb7-4831-b833",
       "parent": "https://ofn.gov.cz/operation/1754378559089-a3b2-11f0-a70b",
-      "dataPsmSchema": "6bd745af-c5eb-4b89-8679-248e67f53ab7",
+      "dataPsmSchema": "7c48c331-af6e-431a-9c18-308efe72f1c5",
       "namespace": "https://schema.ccmm.cz/research-data/1.0",
       "namespacePrefix": "ccmm"
     },
@@ -740,17 +740,17 @@
       ],
       "iri": "https://ofn.gov.cz/operation/1763039696394-af00-87e1-bc1c",
       "parent": "https://ofn.gov.cz/operation/1762078429001-7792-c0a1-a975",
-      "dataPsmSchema": "6bd745af-c5eb-4b89-8679-248e67f53ab7",
+      "dataPsmSchema": "7c48c331-af6e-431a-9c18-308efe72f1c5",
       "namespace": "https://schema.ccmm.cz/research-data/1.1",
       "namespacePrefix": "ccmm"
     }
   ],
   "resources": {
-    "6bd745af-c5eb-4b89-8679-248e67f53ab7": {
+    "7c48c331-af6e-431a-9c18-308efe72f1c5": {
       "types": [
         "https://ofn.gov.cz/slovník/psm/Schema"
       ],
-      "iri": "6bd745af-c5eb-4b89-8679-248e67f53ab7",
+      "iri": "7c48c331-af6e-431a-9c18-308efe72f1c5",
       "dataPsmHumanLabel": {
         "en": "Time instant",
         "cs": "Time instant"
@@ -831,7 +831,7 @@
         "https://ofn.gov.cz/slovník/psm/ClassReference"
       ],
       "iri": "https://ofn.gov.cz/class-reference/1750713608073-0d4a-2036-a651",
-      "dataPsmSpecification": "536262be-2e24-4acb-a4c5-78bd2d237257",
+      "dataPsmSpecification": "0ff4c05b-b6fc-4666-9441-f188c87b5035",
       "dataPsmClass": "https://ofn.gov.cz/class/1747684797448-9d6c-a945-a0af"
     },
     "https://ofn.gov.cz/class-reference/1750713614694-d06a-0f5f-9970": {
@@ -839,7 +839,7 @@
         "https://ofn.gov.cz/slovník/psm/ClassReference"
       ],
       "iri": "https://ofn.gov.cz/class-reference/1750713614694-d06a-0f5f-9970",
-      "dataPsmSpecification": "536262be-2e24-4acb-a4c5-78bd2d237257",
+      "dataPsmSpecification": "0ff4c05b-b6fc-4666-9441-f188c87b5035",
       "dataPsmClass": "https://ofn.gov.cz/class/1747684797448-9d6c-a945-a0af"
     },
     "https://ofn.gov.cz/attribute/1750750219289-507a-a5e5-ae2e": {

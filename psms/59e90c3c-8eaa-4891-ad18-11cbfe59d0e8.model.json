@@ -33,7 +33,7 @@
       ],
       "iri": "https://ofn.gov.cz/operation/1747685830365-3e3d-d97f-a7ee",
       "parent": "https://ofn.gov.cz/operation/1747685830328-e23b-37e0-89da",
-      "dataPsmResource": "795a389f-0b63-4654-a2ea-e09acb9e6b41",
+      "dataPsmResource": "5fd07d2a-a83f-4ef9-87dc-b93a0859f748",
       "dataPsmHumanLabel": {
         "en": "Language system",
         "cs": "Language system"
@@ -46,7 +46,7 @@
       ],
       "iri": "https://ofn.gov.cz/operation/1747685830388-1dbd-f82e-a73f",
       "parent": "https://ofn.gov.cz/operation/1747685830365-3e3d-d97f-a7ee",
-      "dataPsmResource": "795a389f-0b63-4654-a2ea-e09acb9e6b41",
+      "dataPsmResource": "5fd07d2a-a83f-4ef9-87dc-b93a0859f748",
       "dataPsmHumanDescription": {
         "en": "Data structure for Language system. A system of signs, symbols, sounds, gestures, or rules used in communication, e.g. a language.",
         "cs": "Datová struktura pro Language system. A system of signs, symbols, sounds, gestures, or rules used in communication, e.g. a language."
@@ -84,7 +84,7 @@
       ],
       "iri": "https://ofn.gov.cz/operation/1753450470733-e0d6-7b4e-a529",
       "parent": "https://ofn.gov.cz/operation/1750770247285-ecf0-9da1-8114",
-      "dataPsmSchema": "795a389f-0b63-4654-a2ea-e09acb9e6b41",
+      "dataPsmSchema": "5fd07d2a-a83f-4ef9-87dc-b93a0859f748",
       "namespace": "https://schema.ccmm.cz/language-system",
       "namespacePrefix": "ccmm-lang"
     },
@@ -95,7 +95,7 @@
       ],
       "iri": "https://ofn.gov.cz/operation/1753450470802-70c3-1dfb-a2d1",
       "parent": "https://ofn.gov.cz/operation/1753450470733-e0d6-7b4e-a529",
-      "dataPsmEntity": "795a389f-0b63-4654-a2ea-e09acb9e6b41",
+      "dataPsmEntity": "5fd07d2a-a83f-4ef9-87dc-b93a0859f748",
       "jsonEnforceContext": "no"
     },
     {
@@ -105,7 +105,7 @@
       ],
       "iri": "https://ofn.gov.cz/operation/1754378526197-6b91-14f3-adcd",
       "parent": "https://ofn.gov.cz/operation/1753450470802-70c3-1dfb-a2d1",
-      "dataPsmSchema": "795a389f-0b63-4654-a2ea-e09acb9e6b41",
+      "dataPsmSchema": "5fd07d2a-a83f-4ef9-87dc-b93a0859f748",
       "namespace": "https://schema.ccmm.cz/research-data/1.0.0",
       "namespacePrefix": "ccmm"
     },
@@ -116,7 +116,7 @@
       ],
       "iri": "https://ofn.gov.cz/operation/1754408304177-7635-d141-be32",
       "parent": "https://ofn.gov.cz/operation/1754378526197-6b91-14f3-adcd",
-      "dataPsmSchema": "795a389f-0b63-4654-a2ea-e09acb9e6b41",
+      "dataPsmSchema": "5fd07d2a-a83f-4ef9-87dc-b93a0859f748",
       "namespace": "https://schema.ccmm.cz/research-data/1.0",
       "namespacePrefix": "ccmm"
     },
@@ -127,17 +127,17 @@
       ],
       "iri": "https://ofn.gov.cz/operation/1763039663847-e463-a050-bfd0",
       "parent": "https://ofn.gov.cz/operation/1754408304177-7635-d141-be32",
-      "dataPsmSchema": "795a389f-0b63-4654-a2ea-e09acb9e6b41",
+      "dataPsmSchema": "5fd07d2a-a83f-4ef9-87dc-b93a0859f748",
       "namespace": "https://schema.ccmm.cz/research-data/1.1",
       "namespacePrefix": "ccmm"
     }
   ],
   "resources": {
-    "795a389f-0b63-4654-a2ea-e09acb9e6b41": {
+    "5fd07d2a-a83f-4ef9-87dc-b93a0859f748": {
       "types": [
         "https://ofn.gov.cz/slovník/psm/Schema"
       ],
-      "iri": "795a389f-0b63-4654-a2ea-e09acb9e6b41",
+      "iri": "5fd07d2a-a83f-4ef9-87dc-b93a0859f748",
       "dataPsmHumanLabel": {
         "en": "Language system",
         "cs": "Language system"

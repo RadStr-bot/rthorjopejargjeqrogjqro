@@ -33,7 +33,7 @@
       ],
       "iri": "https://ofn.gov.cz/operation/1744871355497-1744-5db9-a920",
       "parent": "https://ofn.gov.cz/operation/1744871355447-e148-230d-84e8",
-      "dataPsmResource": "2e9838ae-8c92-42d8-ac9e-cddbf14437c4",
+      "dataPsmResource": "ceff0362-af8b-4909-9d3c-d2ccfde1f36e",
       "dataPsmHumanLabel": {
         "cs": "Organization",
         "en": "Organization"
@@ -46,7 +46,7 @@
       ],
       "iri": "https://ofn.gov.cz/operation/1744871355542-c09e-8cbd-8ef8",
       "parent": "https://ofn.gov.cz/operation/1744871355497-1744-5db9-a920",
-      "dataPsmResource": "2e9838ae-8c92-42d8-ac9e-cddbf14437c4",
+      "dataPsmResource": "ceff0362-af8b-4909-9d3c-d2ccfde1f36e",
       "dataPsmHumanDescription": {
         "cs": "Datová struktura pro Organization. Represents a collection of people organized together into a community or other social, commercial or political structure. The group has some common purpose or reason for existence which goes beyond the set of people belonging to it and can act as an Agent. Organizations are often decomposable into hierarchical structures. ",
         "en": "Data structure for Organization. Represents a collection of people organized together into a community or other social, commercial or political structure. The group has some common purpose or reason for existence which goes beyond the set of people belonging to it and can act as an Agent. Organizations are often decomposable into hierarchical structures. "
@@ -154,7 +154,7 @@
       "iri": "https://ofn.gov.cz/operation/1744871465970-e035-3df4-904f",
       "parent": "https://ofn.gov.cz/operation/1744871462067-1874-31ef-aadf",
       "dataPsmNewIri": null,
-      "dataPsmSpecification": "e4bb0f83-fd28-4b0b-8f74-6160a258796f",
+      "dataPsmSpecification": "abf3a8ab-9ba1-47ee-ba86-2f516d75142f",
       "dataPsmClass": "https://ofn.gov.cz/class/1742340169817-84a9-ded1-a656"
     },
     {
@@ -184,7 +184,7 @@
       "iri": "https://ofn.gov.cz/operation/1744871470585-44d0-73a8-99b4",
       "parent": "https://ofn.gov.cz/operation/1744871466036-c1c1-5504-a5b6",
       "dataPsmNewIri": null,
-      "dataPsmSpecification": "7c4a1f67-5415-4094-b187-0cc87f9a245a",
+      "dataPsmSpecification": "d65d97c5-f23d-4dd4-b202-aad13350a7b0",
       "dataPsmClass": "https://ofn.gov.cz/class/1742234373952-7a86-df18-a582"
     },
     {
@@ -259,7 +259,7 @@
       ],
       "iri": "https://ofn.gov.cz/operation/1753455555931-3252-9c56-afb6",
       "parent": "https://ofn.gov.cz/operation/1750747773288-7818-ee2f-8a8d",
-      "dataPsmSchema": "2e9838ae-8c92-42d8-ac9e-cddbf14437c4",
+      "dataPsmSchema": "ceff0362-af8b-4909-9d3c-d2ccfde1f36e",
       "namespace": "https://schema.ccmm.cz/organization",
       "namespacePrefix": "ccmm-org"
     },
@@ -270,7 +270,7 @@
       ],
       "iri": "https://ofn.gov.cz/operation/1753455556079-385d-2299-833a",
       "parent": "https://ofn.gov.cz/operation/1753455555931-3252-9c56-afb6",
-      "dataPsmEntity": "2e9838ae-8c92-42d8-ac9e-cddbf14437c4",
+      "dataPsmEntity": "ceff0362-af8b-4909-9d3c-d2ccfde1f36e",
       "jsonEnforceContext": "no"
     },
     {
@@ -280,7 +280,7 @@
       ],
       "iri": "https://ofn.gov.cz/operation/1754378357135-7f59-04eb-9760",
       "parent": "https://ofn.gov.cz/operation/1753455556079-385d-2299-833a",
-      "dataPsmSchema": "2e9838ae-8c92-42d8-ac9e-cddbf14437c4",
+      "dataPsmSchema": "ceff0362-af8b-4909-9d3c-d2ccfde1f36e",
       "namespace": "https://schema.ccmm.cz/research-data/1.0.0",
       "namespacePrefix": "ccmm"
     },
@@ -291,7 +291,7 @@
       ],
       "iri": "https://ofn.gov.cz/operation/1754408122202-180f-7cd8-8b89",
       "parent": "https://ofn.gov.cz/operation/1754378357135-7f59-04eb-9760",
-      "dataPsmSchema": "2e9838ae-8c92-42d8-ac9e-cddbf14437c4",
+      "dataPsmSchema": "ceff0362-af8b-4909-9d3c-d2ccfde1f36e",
       "namespace": "https://schema.ccmm.cz/research-data/1.0",
       "namespacePrefix": "ccmm"
     },
@@ -324,17 +324,17 @@
       ],
       "iri": "https://ofn.gov.cz/operation/1763039519796-b225-7216-991c",
       "parent": "https://ofn.gov.cz/operation/1761928929041-25e9-8841-bc6d",
-      "dataPsmSchema": "2e9838ae-8c92-42d8-ac9e-cddbf14437c4",
+      "dataPsmSchema": "ceff0362-af8b-4909-9d3c-d2ccfde1f36e",
       "namespace": "https://schema.ccmm.cz/research-data/1.1",
       "namespacePrefix": "ccmm"
     }
   ],
   "resources": {
-    "2e9838ae-8c92-42d8-ac9e-cddbf14437c4": {
+    "ceff0362-af8b-4909-9d3c-d2ccfde1f36e": {
       "types": [
         "https://ofn.gov.cz/slovník/psm/Schema"
       ],
-      "iri": "2e9838ae-8c92-42d8-ac9e-cddbf14437c4",
+      "iri": "ceff0362-af8b-4909-9d3c-d2ccfde1f36e",
       "dataPsmHumanLabel": {
         "cs": "Organization",
         "en": "Organization"
@@ -424,7 +424,7 @@
         "https://ofn.gov.cz/slovník/psm/ClassReference"
       ],
       "iri": "https://ofn.gov.cz/class-reference/1744871465970-bd75-fffa-adda",
-      "dataPsmSpecification": "e4bb0f83-fd28-4b0b-8f74-6160a258796f",
+      "dataPsmSpecification": "abf3a8ab-9ba1-47ee-ba86-2f516d75142f",
       "dataPsmClass": "https://ofn.gov.cz/class/1742340169817-84a9-ded1-a656"
     },
     "https://ofn.gov.cz/class-reference/1744871470585-4960-954c-8eec": {
@@ -432,7 +432,7 @@
         "https://ofn.gov.cz/slovník/psm/ClassReference"
       ],
       "iri": "https://ofn.gov.cz/class-reference/1744871470585-4960-954c-8eec",
-      "dataPsmSpecification": "7c4a1f67-5415-4094-b187-0cc87f9a245a",
+      "dataPsmSpecification": "d65d97c5-f23d-4dd4-b202-aad13350a7b0",
       "dataPsmClass": "https://ofn.gov.cz/class/1742234373952-7a86-df18-a582"
     },
     "https://ofn.gov.cz/attribute/1747686200866-a606-9054-8df8": {

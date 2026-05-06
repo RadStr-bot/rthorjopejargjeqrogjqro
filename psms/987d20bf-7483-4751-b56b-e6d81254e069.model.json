@@ -33,7 +33,7 @@
       ],
       "iri": "https://ofn.gov.cz/operation/1742341119282-7b10-0f29-959a",
       "parent": "https://ofn.gov.cz/operation/1742341119249-5057-d99f-b292",
-      "dataPsmResource": "39c6cf99-ac66-4d0c-bbcc-129ac6daeccb",
+      "dataPsmResource": "e8ead5a3-93f1-4bce-9ef0-b06441a191eb",
       "dataPsmHumanLabel": {
         "cs": "Documentation",
         "en": "Documentation"
@@ -46,7 +46,7 @@
       ],
       "iri": "https://ofn.gov.cz/operation/1742341119311-ef39-520b-846e",
       "parent": "https://ofn.gov.cz/operation/1742341119282-7b10-0f29-959a",
-      "dataPsmResource": "39c6cf99-ac66-4d0c-bbcc-129ac6daeccb",
+      "dataPsmResource": "e8ead5a3-93f1-4bce-9ef0-b06441a191eb",
       "dataPsmHumanDescription": {
         "cs": "Datová struktura pro Documentation. A textual resource intended for human consumption that contains information about the data service.",
         "en": "Data structure for Documentation. A textual resource intended for human consumption that contains information about the data service."
@@ -84,7 +84,7 @@
       ],
       "iri": "https://ofn.gov.cz/operation/1753447994731-295c-1655-826d",
       "parent": "https://ofn.gov.cz/operation/1750770582336-4f6b-d6f9-9262",
-      "dataPsmSchema": "39c6cf99-ac66-4d0c-bbcc-129ac6daeccb",
+      "dataPsmSchema": "e8ead5a3-93f1-4bce-9ef0-b06441a191eb",
       "namespace": "https://schema.ccmm.cz/documentation",
       "namespacePrefix": "ccmm-doc"
     },
@@ -95,7 +95,7 @@
       ],
       "iri": "https://ofn.gov.cz/operation/1754378309165-32b8-378c-836d",
       "parent": "https://ofn.gov.cz/operation/1753447994731-295c-1655-826d",
-      "dataPsmSchema": "39c6cf99-ac66-4d0c-bbcc-129ac6daeccb",
+      "dataPsmSchema": "e8ead5a3-93f1-4bce-9ef0-b06441a191eb",
       "namespace": "https://schema.ccmm.cz/research-data/1.0.0",
       "namespacePrefix": "ccmm"
     },
@@ -106,7 +106,7 @@
       ],
       "iri": "https://ofn.gov.cz/operation/1754408084314-df32-b7b4-be79",
       "parent": "https://ofn.gov.cz/operation/1754378309165-32b8-378c-836d",
-      "dataPsmSchema": "39c6cf99-ac66-4d0c-bbcc-129ac6daeccb",
+      "dataPsmSchema": "e8ead5a3-93f1-4bce-9ef0-b06441a191eb",
       "namespace": "https://schema.ccmm.cz/research-data/1.0",
       "namespacePrefix": "ccmm"
     },
@@ -117,7 +117,7 @@
       ],
       "iri": "https://ofn.gov.cz/operation/1763039452575-c659-fd70-aabd",
       "parent": "https://ofn.gov.cz/operation/1754408084314-df32-b7b4-be79",
-      "dataPsmSchema": "39c6cf99-ac66-4d0c-bbcc-129ac6daeccb",
+      "dataPsmSchema": "e8ead5a3-93f1-4bce-9ef0-b06441a191eb",
       "namespace": "https://schema.ccmm.cz/research-data/1.1",
       "namespacePrefix": "ccmm"
     },
@@ -128,16 +128,16 @@
       ],
       "iri": "https://ofn.gov.cz/operation/1763039452683-ced2-52e7-a45c",
       "parent": "https://ofn.gov.cz/operation/1763039452575-c659-fd70-aabd",
-      "dataPsmEntity": "39c6cf99-ac66-4d0c-bbcc-129ac6daeccb",
+      "dataPsmEntity": "e8ead5a3-93f1-4bce-9ef0-b06441a191eb",
       "jsonEnforceContext": "no"
     }
   ],
   "resources": {
-    "39c6cf99-ac66-4d0c-bbcc-129ac6daeccb": {
+    "e8ead5a3-93f1-4bce-9ef0-b06441a191eb": {
       "types": [
         "https://ofn.gov.cz/slovník/psm/Schema"
       ],
-      "iri": "39c6cf99-ac66-4d0c-bbcc-129ac6daeccb",
+      "iri": "e8ead5a3-93f1-4bce-9ef0-b06441a191eb",
       "dataPsmHumanLabel": {
         "cs": "Documentation",
         "en": "Documentation"

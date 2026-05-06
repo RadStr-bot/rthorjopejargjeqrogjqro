@@ -33,7 +33,7 @@
       ],
       "iri": "https://ofn.gov.cz/operation/1742235606262-1988-b21e-8def",
       "parent": "https://ofn.gov.cz/operation/1742235606226-99bb-df9f-8c9b",
-      "dataPsmResource": "4fd91afc-e490-4b08-bbdf-4c1442cb70eb",
+      "dataPsmResource": "81b902e1-071b-431d-a502-feabdf2411ef",
       "dataPsmHumanLabel": {
         "cs": "Resource agent role type",
         "en": "Resource agent role type"
@@ -46,7 +46,7 @@
       ],
       "iri": "https://ofn.gov.cz/operation/1742235606291-8080-3e70-b59e",
       "parent": "https://ofn.gov.cz/operation/1742235606262-1988-b21e-8def",
-      "dataPsmResource": "4fd91afc-e490-4b08-bbdf-4c1442cb70eb",
+      "dataPsmResource": "81b902e1-071b-431d-a502-feabdf2411ef",
       "dataPsmHumanDescription": {
         "cs": "Datová struktura pro Resource agent role type. An idea or notion; a unit of thought.",
         "en": "Data structure for Resource agent role type. An idea or notion; a unit of thought."
@@ -94,7 +94,7 @@
       ],
       "iri": "https://ofn.gov.cz/operation/1753793240813-4ddf-9520-87b0",
       "parent": "https://ofn.gov.cz/operation/1753791625528-028c-7a49-b511",
-      "dataPsmSchema": "4fd91afc-e490-4b08-bbdf-4c1442cb70eb",
+      "dataPsmSchema": "81b902e1-071b-431d-a502-feabdf2411ef",
       "namespace": "https://schema.ccmm.cz/resource-agent-role-type",
       "namespacePrefix": "ccmm-rart"
     },
@@ -105,7 +105,7 @@
       ],
       "iri": "https://ofn.gov.cz/operation/1753793240905-7682-88d1-a7d3",
       "parent": "https://ofn.gov.cz/operation/1753793240813-4ddf-9520-87b0",
-      "dataPsmEntity": "4fd91afc-e490-4b08-bbdf-4c1442cb70eb",
+      "dataPsmEntity": "81b902e1-071b-431d-a502-feabdf2411ef",
       "jsonEnforceContext": "no"
     },
     {
@@ -115,7 +115,7 @@
       ],
       "iri": "https://ofn.gov.cz/operation/1754377990099-6408-3bc2-91b2",
       "parent": "https://ofn.gov.cz/operation/1753793240905-7682-88d1-a7d3",
-      "dataPsmSchema": "4fd91afc-e490-4b08-bbdf-4c1442cb70eb",
+      "dataPsmSchema": "81b902e1-071b-431d-a502-feabdf2411ef",
       "namespace": "https://schema.ccmm.cz/research-data/1.0.0",
       "namespacePrefix": "ccmm"
     },
@@ -126,7 +126,7 @@
       ],
       "iri": "https://ofn.gov.cz/operation/1754407791860-8953-2c5f-93c1",
       "parent": "https://ofn.gov.cz/operation/1754377990099-6408-3bc2-91b2",
-      "dataPsmSchema": "4fd91afc-e490-4b08-bbdf-4c1442cb70eb",
+      "dataPsmSchema": "81b902e1-071b-431d-a502-feabdf2411ef",
       "namespace": "https://schema.ccmm.cz/research-data/1.0",
       "namespacePrefix": "ccmm"
     },
@@ -137,17 +137,17 @@
       ],
       "iri": "https://ofn.gov.cz/operation/1763039254886-0fce-4911-a924",
       "parent": "https://ofn.gov.cz/operation/1754407791860-8953-2c5f-93c1",
-      "dataPsmSchema": "4fd91afc-e490-4b08-bbdf-4c1442cb70eb",
+      "dataPsmSchema": "81b902e1-071b-431d-a502-feabdf2411ef",
       "namespace": "https://schema.ccmm.cz/research-data/1.1",
       "namespacePrefix": "ccmm"
     }
   ],
   "resources": {
-    "4fd91afc-e490-4b08-bbdf-4c1442cb70eb": {
+    "81b902e1-071b-431d-a502-feabdf2411ef": {
       "types": [
         "https://ofn.gov.cz/slovník/psm/Schema"
       ],
-      "iri": "4fd91afc-e490-4b08-bbdf-4c1442cb70eb",
+      "iri": "81b902e1-071b-431d-a502-feabdf2411ef",
       "dataPsmHumanLabel": {
         "cs": "Resource agent role type",
         "en": "Resource agent role type"
